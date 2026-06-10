@@ -1,0 +1,1201 @@
+ticket_id,region,issue_type,service_date,technician_id,resolution_time_hours,status,service_cost_usd,customer_rating
+1,Arizona,Battery Performance,2026-06-13,TECH-024,17.0,Resolved,418.28,4
+2,Florida,Battery Performance,2026-05-20,TECH-020,21.9,Resolved,332.32,4
+3,New York,Warranty,2026-01-07,TECH-019,11.4,Resolved,177.95,4
+4,Nevada,Battery Performance,2026-03-13,TECH-005,53.5,Open,443.72,
+5,Florida,Charging,2026-02-25,TECH-009,11.8,Resolved,410.42,5
+6,Florida,Installation,2026-01-12,TECH-010,32.4,Resolved,543.53,4
+7,California,Warranty,2026-06-10,TECH-002,38.7,Escalated,389.89,
+8,California,Solar Inverter,2026-06-19,TECH-013,74.4,Open,294.47,
+9,Arizona,Grid Connection,2026-03-13,TECH-009,12.3,Resolved,421.08,4
+10,Texas,Installation,2026-06-29,TECH-015,13.7,Resolved,265.68,4
+11,Arizona,Charging,2026-04-08,TECH-011,32.8,Pending Parts,182.36,
+12,California,Solar Inverter,2026-01-15,TECH-007,50.1,Open,186.62,
+13,Texas,Installation,2026-05-26,TECH-009,12.9,Resolved,203.58,2
+14,New York,Solar Inverter,2026-02-05,TECH-029,20.9,Open,263.72,
+15,California,Grid Connection,2026-05-30,TECH-025,22.9,Resolved,318.72,2
+16,New York,Battery Performance,2026-01-13,TECH-013,25.3,Resolved,498.55,4
+17,Arizona,Grid Connection,2026-06-02,TECH-024,35.6,Resolved,269.76,3
+18,Nevada,Installation,2026-01-30,TECH-004,45.1,Escalated,80.48,
+19,Florida,Grid Connection,2026-03-17,TECH-025,32.4,Resolved,324.57,5
+20,Arizona,Warranty,2026-02-15,TECH-017,53.7,Escalated,234.34,
+21,Florida,Solar Inverter,2026-06-05,TECH-011,18.9,Resolved,146.22,3
+22,Texas,Battery Performance,2026-05-06,TECH-002,1,Resolved,628.53,5
+23,California,Warranty,2026-03-03,TECH-025,59.9,Pending Parts,402.79,
+24,Florida,Solar Inverter,2026-05-17,TECH-028,6.8,Resolved,347.36,5
+25,Arizona,Grid Connection,2026-06-05,TECH-007,67.7,Pending Parts,218.54,
+26,Florida,Grid Connection,2026-03-21,TECH-015,35.5,Pending Parts,198.46,
+27,Florida,Solar Inverter,2026-01-31,TECH-008,11.7,Resolved,478.67,4
+28,Nevada,Battery Performance,2026-01-02,TECH-003,21.1,Resolved,338.91,3
+29,Texas,Solar Inverter,2026-05-12,TECH-026,6.8,Resolved,335.95,2
+30,New York,Grid Connection,2026-05-02,TECH-015,25.8,Resolved,405.06,5
+31,California,Installation,2026-01-14,TECH-008,16.1,Resolved,280.66,5
+32,Texas,Solar Inverter,2026-02-19,TECH-028,21.6,Resolved,388.75,2
+33,Arizona,Grid Connection,2026-01-20,TECH-018,49.2,Open,270.02,
+34,New York,Battery Performance,2026-01-04,TECH-016,50.3,Pending Parts,251.28,
+35,New York,Grid Connection,2026-02-24,TECH-009,45.5,Escalated,327.91,
+36,Texas,Charging,2026-04-27,TECH-007,46.5,Resolved,198.24,2
+37,Arizona,Solar Inverter,2026-03-17,TECH-011,28.5,Pending Parts,236.48,
+38,California,Battery Performance,2026-01-15,TECH-017,1,Resolved,315.09,4
+39,California,Solar Inverter,2026-01-21,TECH-029,34.3,Resolved,435.36,5
+40,Nevada,Solar Inverter,2026-05-26,TECH-007,21.6,Resolved,334.31,5
+41,New York,Installation,2026-06-21,TECH-011,17.5,Resolved,393.8,5
+42,Florida,Battery Performance,2026-01-19,TECH-007,48.0,Resolved,315.47,4
+43,Nevada,Charging,2026-05-10,TECH-010,16.0,Resolved,362.95,4
+44,Arizona,Grid Connection,2026-02-10,TECH-017,39.1,Open,135.58,
+45,Texas,Installation,2026-01-03,TECH-009,38.2,Open,516.73,
+46,Texas,Battery Performance,2026-01-30,TECH-023,51.8,Open,414.38,
+47,California,Solar Inverter,2026-03-29,TECH-003,24.4,Resolved,187.41,5
+48,Texas,Grid Connection,2026-06-12,TECH-021,58.0,Open,354.49,
+49,California,Solar Inverter,2026-03-09,TECH-004,30.0,Open,272.81,
+50,Florida,Installation,2026-01-20,TECH-018,17.7,Escalated,244.96,
+51,Nevada,Grid Connection,2026-02-07,TECH-007,11.1,Resolved,599.91,3
+52,Florida,Solar Inverter,2026-06-24,TECH-024,11.0,Resolved,462.63,5
+53,New York,Solar Inverter,2026-02-09,TECH-001,72.1,Escalated,281.95,
+54,Arizona,Installation,2026-02-15,TECH-028,48.1,Pending Parts,178.76,
+55,New York,Charging,2026-03-05,TECH-008,15.3,Resolved,188.91,3
+56,California,Grid Connection,2026-02-21,TECH-022,25.8,Resolved,63.88,4
+57,Nevada,Grid Connection,2026-02-19,TECH-021,33.5,Resolved,50,5
+58,California,Grid Connection,2026-05-11,TECH-029,22.5,Resolved,215.56,3
+59,Nevada,Solar Inverter,2026-03-08,TECH-024,20.5,Resolved,315.97,5
+60,Nevada,Grid Connection,2026-03-22,TECH-002,9.1,Resolved,310.1,4
+61,Nevada,Battery Performance,2026-04-22,TECH-014,22.8,Resolved,119.97,4
+62,California,Installation,2026-01-18,TECH-024,29.2,Pending Parts,175.62,
+63,Florida,Warranty,2026-03-18,TECH-005,10.3,Resolved,397.33,5
+64,Florida,Grid Connection,2026-02-19,TECH-019,7.2,Resolved,480.06,4
+65,Florida,Grid Connection,2026-03-19,TECH-020,25.4,Resolved,320.29,5
+66,Arizona,Charging,2026-06-17,TECH-006,12.2,Resolved,354.51,2
+67,Texas,Battery Performance,2026-06-18,TECH-022,11.6,Resolved,153.25,4
+68,New York,Solar Inverter,2026-03-21,TECH-020,47.8,Open,354.42,
+69,New York,Grid Connection,2026-01-19,TECH-013,13.9,Resolved,252.98,5
+70,New York,Solar Inverter,2026-03-04,TECH-008,33.0,Resolved,328.13,4
+71,New York,Installation,2026-02-15,TECH-005,24.5,Resolved,352.89,4
+72,Florida,Installation,2026-04-29,TECH-027,10.7,Resolved,275.74,2
+73,Arizona,Grid Connection,2026-05-10,TECH-028,14.4,Open,231.52,
+74,Arizona,Grid Connection,2026-05-02,TECH-008,18.2,Resolved,519.46,2
+75,Florida,Grid Connection,2026-03-12,TECH-003,16.4,Resolved,428.69,5
+76,New York,Solar Inverter,2026-02-05,TECH-014,13.1,Resolved,114.26,4
+77,Florida,Warranty,2026-03-26,TECH-023,33.7,Resolved,420.98,5
+78,New York,Warranty,2026-01-06,TECH-018,26.4,Resolved,324.83,5
+79,New York,Warranty,2026-05-20,TECH-001,33.1,Escalated,328.26,
+80,Texas,Charging,2026-04-10,TECH-020,22.3,Resolved,105.5,2
+81,California,Battery Performance,2026-05-17,TECH-021,26.5,Escalated,207.29,
+82,Nevada,Solar Inverter,2026-04-20,TECH-007,49.8,Escalated,418.83,
+83,Nevada,Charging,2026-04-27,TECH-027,23.3,Resolved,242.42,5
+84,Texas,Grid Connection,2026-01-21,TECH-021,1,Resolved,172.04,5
+85,Florida,Installation,2026-01-18,TECH-005,24.7,Resolved,340.44,3
+86,Arizona,Solar Inverter,2026-03-03,TECH-009,34.5,Resolved,543.97,2
+87,Nevada,Solar Inverter,2026-04-05,TECH-004,32.0,Resolved,269.65,4
+88,New York,Battery Performance,2026-05-29,TECH-013,15.9,Pending Parts,179.79,
+89,Arizona,Battery Performance,2026-02-20,TECH-020,21.3,Resolved,228.67,5
+90,Nevada,Warranty,2026-01-31,TECH-003,35.9,Open,441.3,
+91,New York,Installation,2026-05-10,TECH-012,27.8,Resolved,109.04,4
+92,Florida,Grid Connection,2026-06-12,TECH-026,4.5,Resolved,409.82,5
+93,Texas,Grid Connection,2026-05-18,TECH-027,23.5,Resolved,153.26,5
+94,Florida,Charging,2026-01-23,TECH-022,45.6,Escalated,476.4,
+95,Nevada,Charging,2026-04-08,TECH-026,21.4,Resolved,248.56,4
+96,Florida,Charging,2026-03-08,TECH-007,2.7,Resolved,156.19,3
+97,Arizona,Solar Inverter,2026-01-22,TECH-016,19.8,Open,336.91,
+98,New York,Installation,2026-06-15,TECH-023,19.1,Resolved,260.36,4
+99,New York,Charging,2026-03-04,TECH-024,10.2,Resolved,450.34,5
+100,California,Charging,2026-05-21,TECH-024,10.6,Resolved,354.33,4
+101,Texas,Charging,2026-02-19,TECH-007,3.1,Resolved,266.98,4
+102,Nevada,Charging,2026-05-04,TECH-004,63.1,Open,294.99,
+103,Nevada,Charging,2026-02-19,TECH-002,18.7,Resolved,341.35,4
+104,California,Warranty,2026-01-14,TECH-028,30.0,Resolved,251.33,2
+105,Nevada,Warranty,2026-01-04,TECH-028,9.9,Resolved,337.04,3
+106,Arizona,Battery Performance,2026-05-03,TECH-022,40.2,Open,352.09,
+107,California,Solar Inverter,2026-01-14,TECH-018,10.9,Resolved,274.17,4
+108,New York,Warranty,2026-04-17,TECH-030,6.6,Resolved,156.06,5
+109,Florida,Charging,2026-04-24,TECH-002,57.8,Escalated,312.52,
+110,Arizona,Installation,2026-06-06,TECH-003,19.0,Resolved,124.41,5
+111,Arizona,Solar Inverter,2026-02-10,TECH-020,18.6,Resolved,324.66,2
+112,California,Charging,2026-05-01,TECH-022,16.3,Resolved,430.87,2
+113,Texas,Charging,2026-03-01,TECH-014,29.4,Open,174.3,
+114,California,Warranty,2026-01-30,TECH-002,22.2,Resolved,408.59,4
+115,California,Charging,2026-02-12,TECH-015,27.1,Resolved,50,2
+116,New York,Charging,2026-06-26,TECH-003,27.9,Resolved,261.87,2
+117,California,Battery Performance,2026-06-03,TECH-003,43.0,Escalated,130.41,
+118,Arizona,Installation,2026-02-28,TECH-027,12.2,Open,163.63,
+119,Nevada,Warranty,2026-03-10,TECH-006,18.4,Resolved,162.25,2
+120,New York,Grid Connection,2026-05-30,TECH-011,14.1,Resolved,323.18,5
+121,Nevada,Installation,2026-03-24,TECH-022,22.9,Resolved,442.15,2
+122,New York,Warranty,2026-04-13,TECH-028,23.8,Resolved,376.11,4
+123,Florida,Battery Performance,2026-05-12,TECH-012,9.0,Resolved,281.77,4
+124,Nevada,Grid Connection,2026-06-09,TECH-015,18.4,Resolved,225.73,4
+125,Arizona,Grid Connection,2026-06-28,TECH-006,30.2,Resolved,287.79,4
+126,New York,Warranty,2026-03-21,TECH-004,12.6,Resolved,374.58,4
+127,New York,Solar Inverter,2026-06-15,TECH-027,15.8,Resolved,156.71,5
+128,California,Grid Connection,2026-05-04,TECH-009,9.6,Resolved,276.4,4
+129,Nevada,Charging,2026-04-17,TECH-024,17.2,Pending Parts,307.39,
+130,Florida,Warranty,2026-03-18,TECH-016,8.3,Resolved,83.38,2
+131,Texas,Charging,2026-03-30,TECH-023,8.4,Resolved,278.41,5
+132,Arizona,Warranty,2026-03-03,TECH-016,23.7,Resolved,206.79,5
+133,New York,Grid Connection,2026-06-30,TECH-002,9.4,Resolved,97.66,4
+134,New York,Warranty,2026-02-02,TECH-004,41.6,Pending Parts,376.03,
+135,California,Grid Connection,2026-05-15,TECH-016,29.2,Resolved,542.93,4
+136,Arizona,Charging,2026-03-09,TECH-028,15.1,Resolved,354.4,5
+137,New York,Grid Connection,2026-05-17,TECH-028,23.1,Pending Parts,110.76,
+138,Texas,Battery Performance,2026-05-19,TECH-024,19.3,Resolved,531.65,5
+139,California,Grid Connection,2026-01-24,TECH-015,46.5,Pending Parts,102.04,
+140,Nevada,Installation,2026-02-12,TECH-012,25.8,Resolved,342.43,3
+141,Texas,Grid Connection,2026-04-06,TECH-006,6.6,Resolved,284.81,4
+142,Florida,Warranty,2026-01-21,TECH-005,36.9,Escalated,249.0,
+143,Nevada,Grid Connection,2026-03-01,TECH-022,5.1,Resolved,372.16,2
+144,Arizona,Solar Inverter,2026-05-20,TECH-014,43.1,Resolved,179.99,5
+145,California,Charging,2026-06-26,TECH-008,6.9,Resolved,829.12,2
+146,Arizona,Warranty,2026-04-08,TECH-013,14.0,Resolved,528.08,3
+147,Florida,Battery Performance,2026-03-12,TECH-024,12.2,Resolved,107.23,3
+148,Texas,Charging,2026-05-08,TECH-021,48.4,Open,569.97,
+149,Arizona,Warranty,2026-02-18,TECH-004,18.5,Resolved,81.02,4
+150,Arizona,Installation,2026-06-10,TECH-005,18.6,Resolved,284.6,5
+151,Florida,Charging,2026-01-24,TECH-017,12.8,Resolved,367.46,5
+152,Arizona,Solar Inverter,2026-03-11,TECH-028,22.7,Resolved,176.82,5
+153,Arizona,Battery Performance,2026-03-28,TECH-024,31.4,Resolved,426.86,4
+154,New York,Grid Connection,2026-06-22,TECH-001,49.8,Pending Parts,194.18,
+155,Florida,Warranty,2026-03-09,TECH-013,7.9,Resolved,491.1,5
+156,Florida,Charging,2026-06-13,TECH-008,18.2,Resolved,351.36,5
+157,California,Battery Performance,2026-06-15,TECH-005,4.4,Resolved,368.44,5
+158,New York,Battery Performance,2026-01-12,TECH-015,13.9,Resolved,322.93,4
+159,Florida,Installation,2026-04-05,TECH-024,38.8,Pending Parts,155.26,
+160,California,Grid Connection,2026-02-09,TECH-023,24.2,Resolved,152.55,5
+161,Arizona,Solar Inverter,2026-04-05,TECH-012,34.9,Resolved,235.83,4
+162,New York,Installation,2026-05-20,TECH-003,13.3,Resolved,374.25,4
+163,Texas,Solar Inverter,2026-06-19,TECH-005,16.5,Resolved,303.33,5
+164,Texas,Solar Inverter,2026-05-25,TECH-011,18.6,Resolved,225.04,4
+165,Florida,Warranty,2026-02-07,TECH-009,21.2,Resolved,259.19,4
+166,Florida,Battery Performance,2026-02-14,TECH-011,19.5,Resolved,323.91,4
+167,Arizona,Solar Inverter,2026-01-05,TECH-003,24.6,Resolved,424.62,4
+168,Florida,Grid Connection,2026-05-02,TECH-008,37.8,Open,314.41,
+169,Nevada,Battery Performance,2026-06-07,TECH-015,63.5,Open,208.62,
+170,New York,Battery Performance,2026-06-14,TECH-023,9.0,Resolved,338.68,4
+171,Texas,Battery Performance,2026-04-24,TECH-009,41.3,Escalated,391.33,
+172,New York,Installation,2026-06-09,TECH-017,15.9,Resolved,186.76,5
+173,New York,Grid Connection,2026-06-04,TECH-015,12.7,Resolved,58.43,4
+174,Nevada,Grid Connection,2026-02-28,TECH-014,9.1,Resolved,361.82,4
+175,California,Installation,2026-03-22,TECH-003,31.1,Resolved,258.67,2
+176,Florida,Battery Performance,2026-01-22,TECH-002,17.7,Resolved,184.89,4
+177,Arizona,Warranty,2026-05-31,TECH-002,13.5,Resolved,193.8,5
+178,Arizona,Warranty,2026-03-15,TECH-016,26.5,Resolved,420.95,4
+179,Florida,Battery Performance,2026-02-27,TECH-008,13.8,Resolved,296.05,5
+180,Arizona,Warranty,2026-04-20,TECH-018,53.6,Pending Parts,144.51,
+181,Texas,Warranty,2026-01-07,TECH-009,50.7,Pending Parts,223.03,
+182,Texas,Charging,2026-06-29,TECH-019,39.4,Pending Parts,391.33,
+183,Arizona,Grid Connection,2026-06-18,TECH-017,16.6,Resolved,50,4
+184,Florida,Grid Connection,2026-02-25,TECH-020,13.3,Resolved,433.23,5
+185,Nevada,Battery Performance,2026-01-22,TECH-015,18.1,Resolved,275.29,4
+186,Nevada,Grid Connection,2026-06-19,TECH-014,11.3,Resolved,359.83,4
+187,California,Charging,2026-01-29,TECH-008,8.8,Resolved,225.39,5
+188,Nevada,Warranty,2026-04-12,TECH-010,24.1,Resolved,643.79,4
+189,Florida,Battery Performance,2026-03-25,TECH-023,17.9,Resolved,232.99,5
+190,Arizona,Warranty,2026-02-28,TECH-002,13.9,Resolved,206.06,5
+191,Florida,Battery Performance,2026-04-22,TECH-013,24.9,Resolved,377.02,5
+192,Florida,Grid Connection,2026-06-13,TECH-015,1,Resolved,524.76,4
+193,Florida,Charging,2026-06-26,TECH-003,21.8,Resolved,233.34,5
+194,California,Charging,2026-04-12,TECH-017,49.6,Open,559.43,
+195,Arizona,Battery Performance,2026-06-12,TECH-027,23.4,Resolved,547.36,5
+196,Arizona,Solar Inverter,2026-06-15,TECH-003,21.6,Resolved,393.85,4
+197,Arizona,Installation,2026-02-15,TECH-030,18.4,Resolved,83.61,2
+198,Texas,Installation,2026-05-25,TECH-015,5.2,Resolved,122.76,5
+199,Nevada,Grid Connection,2026-01-18,TECH-017,15.6,Resolved,426.08,3
+200,California,Charging,2026-01-19,TECH-021,26.4,Resolved,351.44,5
+201,New York,Warranty,2026-01-24,TECH-030,9.1,Resolved,442.46,3
+202,New York,Installation,2026-05-27,TECH-004,9.6,Resolved,218.77,3
+203,New York,Installation,2026-03-29,TECH-017,16.5,Resolved,288.57,2
+204,Nevada,Warranty,2026-05-14,TECH-022,12.9,Resolved,401.81,5
+205,California,Battery Performance,2026-06-03,TECH-018,41.7,Open,278.69,
+206,Nevada,Grid Connection,2026-06-23,TECH-003,15.8,Resolved,118.1,4
+207,Texas,Installation,2026-05-30,TECH-020,4.2,Resolved,617.01,5
+208,Arizona,Charging,2026-01-22,TECH-023,13.0,Resolved,222.01,4
+209,Nevada,Warranty,2026-06-25,TECH-010,12.9,Resolved,173.55,3
+210,Texas,Solar Inverter,2026-02-16,TECH-003,18.6,Resolved,229.05,4
+211,Arizona,Battery Performance,2026-03-17,TECH-011,3.7,Resolved,263.28,3
+212,Arizona,Solar Inverter,2026-06-08,TECH-015,21.2,Resolved,392.9,4
+213,Arizona,Grid Connection,2026-01-12,TECH-026,13.5,Resolved,50,5
+214,Texas,Solar Inverter,2026-04-25,TECH-012,12.0,Resolved,557.03,2
+215,New York,Warranty,2026-06-23,TECH-017,33.1,Pending Parts,347.16,
+216,Texas,Grid Connection,2026-05-16,TECH-028,56.0,Pending Parts,90.23,
+217,Arizona,Battery Performance,2026-03-06,TECH-028,26.0,Resolved,193.41,4
+218,New York,Battery Performance,2026-05-13,TECH-003,18.6,Resolved,208.63,4
+219,New York,Grid Connection,2026-02-26,TECH-017,59.1,Escalated,258.67,
+220,California,Solar Inverter,2026-04-06,TECH-027,23.6,Resolved,368.98,5
+221,New York,Charging,2026-06-16,TECH-023,53.0,Open,407.59,
+222,Nevada,Installation,2026-02-05,TECH-007,3.4,Resolved,118.23,3
+223,Nevada,Warranty,2026-02-08,TECH-008,32.8,Pending Parts,227.17,
+224,California,Battery Performance,2026-03-19,TECH-004,4.0,Resolved,440.11,2
+225,Nevada,Warranty,2026-05-08,TECH-014,10.0,Resolved,184.95,4
+226,Florida,Warranty,2026-01-01,TECH-012,12.8,Resolved,281.27,4
+227,New York,Warranty,2026-01-18,TECH-028,20.4,Resolved,157.69,3
+228,Nevada,Battery Performance,2026-05-01,TECH-026,24.8,Resolved,307.27,3
+229,Texas,Charging,2026-01-18,TECH-002,15.7,Resolved,265.35,5
+230,Arizona,Warranty,2026-04-01,TECH-016,7.4,Resolved,113.88,2
+231,New York,Solar Inverter,2026-06-11,TECH-002,68.9,Open,413.55,
+232,Florida,Solar Inverter,2026-03-17,TECH-013,18.8,Resolved,358.92,5
+233,California,Grid Connection,2026-05-20,TECH-028,18.1,Resolved,228.84,5
+234,Arizona,Charging,2026-06-17,TECH-015,20.9,Resolved,177.1,5
+235,Florida,Charging,2026-04-09,TECH-009,27.4,Pending Parts,323.92,
+236,Florida,Installation,2026-01-22,TECH-010,1,Resolved,512.83,4
+237,Texas,Battery Performance,2026-03-24,TECH-023,13.9,Resolved,218.5,5
+238,Nevada,Charging,2026-04-24,TECH-021,15.1,Resolved,50,5
+239,California,Battery Performance,2026-01-15,TECH-005,9.0,Resolved,413.35,4
+240,Arizona,Installation,2026-06-05,TECH-012,50.5,Open,331.33,
+241,New York,Grid Connection,2026-04-03,TECH-012,53.5,Pending Parts,336.33,
+242,New York,Grid Connection,2026-04-06,TECH-011,28.5,Open,243.0,
+243,Florida,Charging,2026-06-16,TECH-013,29.1,Resolved,469.35,2
+244,Arizona,Battery Performance,2026-05-24,TECH-030,17.4,Resolved,471.9,5
+245,California,Solar Inverter,2026-05-06,TECH-026,23.9,Resolved,197.39,2
+246,Nevada,Charging,2026-06-24,TECH-028,15.1,Resolved,148.76,5
+247,Florida,Installation,2026-02-10,TECH-008,16.3,Resolved,237.61,5
+248,Nevada,Solar Inverter,2026-02-01,TECH-018,46.5,Open,482.85,
+249,California,Charging,2026-05-27,TECH-010,22.7,Resolved,312.14,4
+250,Texas,Installation,2026-04-12,TECH-011,2.8,Resolved,281.46,4
+251,Texas,Battery Performance,2026-06-14,TECH-014,14.5,Resolved,203.53,4
+252,Texas,Battery Performance,2026-05-09,TECH-011,32.3,Open,306.47,
+253,California,Charging,2026-02-27,TECH-009,32.8,Pending Parts,306.44,
+254,Florida,Installation,2026-02-20,TECH-018,41.8,Pending Parts,513.78,
+255,Arizona,Warranty,2026-01-24,TECH-020,8.1,Resolved,219.34,4
+256,California,Charging,2026-06-04,TECH-003,19.2,Escalated,218.24,
+257,Florida,Installation,2026-01-12,TECH-014,44.1,Open,415.93,
+258,New York,Installation,2026-06-08,TECH-008,26.7,Resolved,207.07,5
+259,New York,Grid Connection,2026-06-25,TECH-016,20.8,Resolved,341.78,2
+260,Arizona,Solar Inverter,2026-04-29,TECH-028,29.1,Resolved,538.52,5
+261,Texas,Grid Connection,2026-03-30,TECH-015,10.1,Resolved,450.65,5
+262,Florida,Charging,2026-02-01,TECH-014,19.8,Resolved,354.92,5
+263,Texas,Solar Inverter,2026-03-05,TECH-025,66.9,Open,229.54,
+264,New York,Grid Connection,2026-02-10,TECH-001,14.8,Pending Parts,379.57,
+265,California,Grid Connection,2026-01-24,TECH-002,24.1,Resolved,299.75,5
+266,Florida,Grid Connection,2026-03-14,TECH-001,25.4,Resolved,145.41,5
+267,Nevada,Grid Connection,2026-01-28,TECH-002,17.2,Resolved,453.05,5
+268,New York,Battery Performance,2026-04-13,TECH-017,21.9,Resolved,487.08,4
+269,Texas,Warranty,2026-04-26,TECH-004,31.6,Resolved,305.52,4
+270,Texas,Charging,2026-04-11,TECH-007,26.2,Open,600.54,
+271,New York,Warranty,2026-06-04,TECH-017,20.5,Resolved,329.87,5
+272,Texas,Solar Inverter,2026-04-27,TECH-013,10.0,Resolved,307.86,5
+273,Florida,Installation,2026-06-07,TECH-018,30.2,Escalated,227.47,
+274,Arizona,Installation,2026-05-06,TECH-004,16.4,Resolved,324.03,5
+275,Florida,Warranty,2026-04-17,TECH-016,32.7,Resolved,151.34,3
+276,Arizona,Installation,2026-03-09,TECH-002,48.2,Open,138.67,
+277,Texas,Grid Connection,2026-05-30,TECH-027,9.4,Resolved,178.9,5
+278,New York,Solar Inverter,2026-06-24,TECH-011,22.1,Resolved,298.4,3
+279,Arizona,Solar Inverter,2026-04-18,TECH-024,21.0,Resolved,478.38,2
+280,Florida,Installation,2026-01-16,TECH-013,20.1,Resolved,439.71,2
+281,Florida,Solar Inverter,2026-03-22,TECH-016,6.9,Resolved,283.63,5
+282,Nevada,Solar Inverter,2026-02-19,TECH-023,11.6,Resolved,638.2,5
+283,Nevada,Installation,2026-02-23,TECH-004,14.6,Resolved,438.34,5
+284,Texas,Installation,2026-05-27,TECH-010,25.2,Resolved,234.57,5
+285,Arizona,Charging,2026-01-11,TECH-009,74.9,Pending Parts,471.42,
+286,Texas,Solar Inverter,2026-05-03,TECH-004,1,Resolved,241.86,5
+287,Arizona,Installation,2026-06-07,TECH-008,18.6,Resolved,528.19,4
+288,California,Battery Performance,2026-01-14,TECH-018,17.2,Resolved,256.9,4
+289,Nevada,Grid Connection,2026-02-10,TECH-011,25.5,Resolved,211.56,4
+290,Florida,Installation,2026-03-15,TECH-024,19.5,Resolved,117.91,4
+291,New York,Solar Inverter,2026-01-10,TECH-026,29.0,Resolved,50,3
+292,California,Solar Inverter,2026-05-07,TECH-001,78.3,Pending Parts,244.69,
+293,Arizona,Warranty,2026-03-18,TECH-018,25.3,Resolved,265.04,2
+294,Nevada,Grid Connection,2026-05-15,TECH-007,56.8,Escalated,443.85,
+295,California,Charging,2026-01-29,TECH-024,11.3,Resolved,347.57,4
+296,New York,Charging,2026-03-28,TECH-017,18.3,Resolved,233.12,5
+297,Nevada,Battery Performance,2026-03-25,TECH-030,39.0,Resolved,543.37,2
+298,Nevada,Battery Performance,2026-03-05,TECH-019,19.4,Resolved,553.42,5
+299,New York,Battery Performance,2026-05-27,TECH-010,13.8,Resolved,399.39,4
+300,Arizona,Grid Connection,2026-02-10,TECH-004,34.7,Resolved,183.96,5
+301,Texas,Charging,2026-06-13,TECH-015,22.1,Resolved,665.79,2
+302,Texas,Charging,2026-06-05,TECH-022,8.3,Resolved,271.91,4
+303,California,Battery Performance,2026-06-02,TECH-027,9.6,Resolved,296.64,4
+304,California,Warranty,2026-05-21,TECH-022,12.7,Resolved,300.83,2
+305,New York,Installation,2026-02-22,TECH-005,27.0,Resolved,410.48,3
+306,Arizona,Grid Connection,2026-05-12,TECH-001,27.4,Resolved,375.35,5
+307,California,Charging,2026-04-12,TECH-014,44.5,Open,136.08,
+308,New York,Installation,2026-03-30,TECH-002,39.0,Resolved,307.93,4
+309,Nevada,Grid Connection,2026-03-15,TECH-029,26.5,Resolved,470.78,5
+310,Arizona,Grid Connection,2026-04-08,TECH-022,57.1,Escalated,244.87,
+311,Florida,Solar Inverter,2026-05-19,TECH-005,14.7,Resolved,391.74,5
+312,Arizona,Battery Performance,2026-02-27,TECH-018,61.6,Open,298.97,
+313,Nevada,Warranty,2026-04-19,TECH-007,19.3,Resolved,474.3,4
+314,California,Battery Performance,2026-01-29,TECH-008,22.7,Open,435.96,
+315,Texas,Battery Performance,2026-02-22,TECH-024,29.9,Resolved,359.57,3
+316,Texas,Grid Connection,2026-01-12,TECH-017,3.4,Resolved,262.0,3
+317,Florida,Solar Inverter,2026-03-16,TECH-025,43.5,Open,198.13,
+318,New York,Charging,2026-06-22,TECH-010,36.7,Resolved,50,4
+319,Arizona,Battery Performance,2026-03-12,TECH-022,5.7,Resolved,195.7,4
+320,Florida,Warranty,2026-04-20,TECH-011,39.1,Resolved,262.2,5
+321,Texas,Grid Connection,2026-06-28,TECH-028,16.2,Resolved,404.9,2
+322,California,Charging,2026-02-27,TECH-018,55.3,Escalated,442.97,
+323,Nevada,Grid Connection,2026-04-16,TECH-021,22.5,Resolved,397.94,4
+324,Texas,Grid Connection,2026-01-21,TECH-002,65.1,Escalated,443.39,
+325,Florida,Grid Connection,2026-03-10,TECH-024,3.4,Resolved,148.43,4
+326,California,Warranty,2026-06-21,TECH-007,23.0,Resolved,615.03,5
+327,Arizona,Installation,2026-02-18,TECH-020,28.3,Resolved,319.57,4
+328,New York,Solar Inverter,2026-06-30,TECH-015,18.5,Resolved,443.06,5
+329,New York,Installation,2026-05-17,TECH-004,17.2,Resolved,487.45,2
+330,Florida,Charging,2026-05-01,TECH-028,34.3,Escalated,425.06,
+331,Nevada,Installation,2026-02-26,TECH-005,16.6,Resolved,646.36,5
+332,Nevada,Charging,2026-02-20,TECH-025,11.9,Resolved,275.36,5
+333,Texas,Installation,2026-05-06,TECH-005,12.5,Resolved,325.02,5
+334,Florida,Grid Connection,2026-05-20,TECH-002,39.1,Resolved,50,3
+335,California,Installation,2026-01-20,TECH-023,22.9,Resolved,323.05,4
+336,Arizona,Battery Performance,2026-02-08,TECH-016,14.9,Resolved,333.49,2
+337,Florida,Battery Performance,2026-01-05,TECH-010,16.6,Resolved,333.6,5
+338,Texas,Warranty,2026-01-05,TECH-004,32.5,Open,94.74,
+339,Nevada,Warranty,2026-01-25,TECH-026,21.9,Resolved,479.91,5
+340,Nevada,Battery Performance,2026-04-12,TECH-022,8.4,Resolved,420.57,4
+341,New York,Installation,2026-01-21,TECH-013,42.8,Pending Parts,291.27,
+342,New York,Warranty,2026-04-07,TECH-028,8.8,Resolved,154.82,4
+343,California,Installation,2026-04-22,TECH-029,17.9,Open,208.79,
+344,Nevada,Battery Performance,2026-05-16,TECH-002,29.2,Resolved,195.05,2
+345,California,Installation,2026-01-20,TECH-006,60.6,Pending Parts,213.41,
+346,Arizona,Battery Performance,2026-03-22,TECH-027,23.6,Pending Parts,198.38,
+347,Arizona,Battery Performance,2026-04-12,TECH-029,7.3,Resolved,249.18,5
+348,Florida,Charging,2026-05-19,TECH-024,17.0,Resolved,72.98,4
+349,Nevada,Battery Performance,2026-03-30,TECH-001,18.4,Resolved,375.32,5
+350,Florida,Charging,2026-06-12,TECH-013,34.7,Open,350.8,
+351,Texas,Solar Inverter,2026-04-21,TECH-023,16.0,Resolved,269.83,5
+352,Arizona,Battery Performance,2026-01-19,TECH-013,6.5,Resolved,487.75,4
+353,Nevada,Charging,2026-03-23,TECH-004,25.7,Resolved,323.92,5
+354,California,Battery Performance,2026-02-03,TECH-001,7.1,Resolved,376.26,5
+355,California,Charging,2026-01-23,TECH-010,5.1,Resolved,179.7,5
+356,Texas,Grid Connection,2026-04-16,TECH-019,42.0,Open,142.96,
+357,New York,Solar Inverter,2026-05-14,TECH-005,21.5,Resolved,416.94,5
+358,Nevada,Solar Inverter,2026-01-17,TECH-009,8.9,Resolved,396.63,4
+359,Texas,Installation,2026-03-05,TECH-010,13.1,Resolved,268.66,4
+360,New York,Grid Connection,2026-01-02,TECH-011,6.2,Resolved,146.74,5
+361,Arizona,Installation,2026-04-21,TECH-007,53.7,Pending Parts,412.92,
+362,Florida,Charging,2026-05-03,TECH-026,11.7,Resolved,393.25,2
+363,Florida,Charging,2026-03-04,TECH-007,21.6,Resolved,192.15,4
+364,Arizona,Warranty,2026-06-01,TECH-007,18.2,Resolved,287.5,2
+365,New York,Charging,2026-04-23,TECH-022,71.4,Open,434.36,
+366,New York,Solar Inverter,2026-05-08,TECH-003,18.7,Resolved,525.01,5
+367,Florida,Warranty,2026-04-25,TECH-002,9.3,Resolved,417.13,5
+368,California,Installation,2026-04-03,TECH-004,24.2,Escalated,274.12,
+369,Nevada,Installation,2026-03-05,TECH-026,24.2,Resolved,486.79,5
+370,New York,Battery Performance,2026-04-21,TECH-012,17.4,Resolved,487.13,4
+371,Nevada,Grid Connection,2026-04-11,TECH-001,30.0,Open,232.85,
+372,Nevada,Battery Performance,2026-05-04,TECH-010,21.3,Resolved,291.6,4
+373,California,Grid Connection,2026-03-29,TECH-015,31.2,Open,302.86,
+374,California,Grid Connection,2026-06-28,TECH-028,12.9,Resolved,562.6,4
+375,Florida,Installation,2026-03-29,TECH-006,24.4,Resolved,50,4
+376,Arizona,Solar Inverter,2026-05-22,TECH-006,9.0,Resolved,389.58,5
+377,New York,Installation,2026-02-17,TECH-019,6.3,Resolved,459.66,4
+378,Florida,Grid Connection,2026-04-20,TECH-004,19.6,Resolved,430.33,4
+379,Florida,Solar Inverter,2026-05-18,TECH-021,19.4,Resolved,385.09,2
+380,New York,Warranty,2026-03-22,TECH-020,14.5,Resolved,363.1,5
+381,Arizona,Installation,2026-02-14,TECH-005,14.4,Resolved,504.77,4
+382,Florida,Battery Performance,2026-03-22,TECH-013,24.5,Resolved,410.74,4
+383,Florida,Warranty,2026-04-18,TECH-006,13.7,Resolved,379.9,4
+384,Nevada,Charging,2026-05-06,TECH-001,14.1,Resolved,460.87,3
+385,New York,Solar Inverter,2026-05-05,TECH-022,9.4,Resolved,439.79,2
+386,Texas,Grid Connection,2026-05-06,TECH-010,12.9,Resolved,349.27,3
+387,Florida,Charging,2026-01-09,TECH-017,14.2,Resolved,556.73,2
+388,Florida,Warranty,2026-01-29,TECH-027,20.6,Resolved,62.58,5
+389,Nevada,Installation,2026-01-11,TECH-028,19.9,Resolved,464.45,4
+390,Texas,Grid Connection,2026-01-09,TECH-007,20.5,Resolved,274.51,4
+391,Florida,Installation,2026-05-31,TECH-005,14.9,Resolved,127.83,4
+392,Florida,Solar Inverter,2026-02-22,TECH-018,28.3,Open,246.44,
+393,Florida,Charging,2026-02-13,TECH-029,39.8,Pending Parts,496.06,
+394,Nevada,Battery Performance,2026-06-23,TECH-028,18.0,Resolved,175.81,3
+395,Texas,Solar Inverter,2026-06-17,TECH-025,21.4,Resolved,378.29,5
+396,New York,Grid Connection,2026-06-23,TECH-015,11.7,Resolved,268.22,5
+397,Arizona,Installation,2026-01-20,TECH-009,46.8,Open,178.83,
+398,Arizona,Charging,2026-06-27,TECH-015,6.1,Resolved,333.88,4
+399,Texas,Installation,2026-06-12,TECH-014,27.4,Resolved,118.25,5
+400,Florida,Grid Connection,2026-02-24,TECH-028,21.9,Resolved,207.99,4
+401,Arizona,Charging,2026-05-05,TECH-026,45.4,Escalated,277.19,
+402,New York,Battery Performance,2026-04-28,TECH-007,24.1,Resolved,202.2,3
+403,Nevada,Solar Inverter,2026-06-26,TECH-003,35.2,Escalated,590.18,
+404,California,Charging,2026-06-17,TECH-013,4.5,Resolved,538.43,4
+405,California,Charging,2026-06-10,TECH-023,45.5,Open,171.82,
+406,California,Battery Performance,2026-01-25,TECH-001,28.7,Resolved,408.38,2
+407,Texas,Charging,2026-06-28,TECH-016,60.7,Open,309.09,
+408,Nevada,Solar Inverter,2026-01-19,TECH-029,17.5,Resolved,255.39,5
+409,California,Solar Inverter,2026-03-18,TECH-017,25.1,Resolved,57.08,4
+410,Arizona,Battery Performance,2026-05-25,TECH-024,22.3,Resolved,431.72,4
+411,Texas,Grid Connection,2026-02-08,TECH-025,12.1,Resolved,354.7,4
+412,Texas,Warranty,2026-02-01,TECH-008,35.5,Open,439.13,
+413,Arizona,Installation,2026-03-12,TECH-001,6.5,Resolved,257.6,5
+414,Nevada,Charging,2026-06-18,TECH-021,13.4,Resolved,263.65,5
+415,Florida,Solar Inverter,2026-01-14,TECH-029,26.0,Resolved,427.18,4
+416,Florida,Charging,2026-01-04,TECH-014,65.1,Pending Parts,525.03,
+417,California,Warranty,2026-04-04,TECH-019,19.8,Resolved,50,4
+418,Florida,Battery Performance,2026-01-18,TECH-010,21.1,Resolved,332.25,5
+419,Arizona,Installation,2026-06-10,TECH-018,5.9,Resolved,430.36,4
+420,Texas,Warranty,2026-05-18,TECH-018,21.2,Resolved,348.48,4
+421,Nevada,Grid Connection,2026-03-25,TECH-023,19.1,Resolved,117.88,4
+422,New York,Installation,2026-04-22,TECH-004,45.8,Pending Parts,424.56,
+423,California,Warranty,2026-04-27,TECH-001,12.6,Resolved,534.55,4
+424,Texas,Installation,2026-02-05,TECH-012,9.7,Resolved,322.91,5
+425,California,Installation,2026-02-02,TECH-011,41.3,Open,609.98,
+426,New York,Charging,2026-04-20,TECH-015,16.0,Resolved,699.11,4
+427,Nevada,Charging,2026-05-11,TECH-025,21.4,Resolved,254.6,4
+428,California,Warranty,2026-01-27,TECH-028,29.1,Resolved,472.5,3
+429,California,Solar Inverter,2026-01-04,TECH-018,4.7,Resolved,557.49,4
+430,Nevada,Grid Connection,2026-06-17,TECH-027,18.2,Resolved,631.48,5
+431,Texas,Warranty,2026-01-20,TECH-026,1,Resolved,316.13,4
+432,Nevada,Battery Performance,2026-05-13,TECH-025,60.2,Pending Parts,385.72,
+433,Florida,Charging,2026-03-21,TECH-026,9.7,Resolved,356.06,5
+434,Texas,Installation,2026-03-19,TECH-024,6.3,Resolved,362.11,2
+435,Arizona,Solar Inverter,2026-05-20,TECH-027,19.8,Resolved,307.31,5
+436,Arizona,Battery Performance,2026-06-27,TECH-024,67.0,Pending Parts,321.88,
+437,Texas,Battery Performance,2026-03-20,TECH-023,27.3,Resolved,304.53,3
+438,Arizona,Battery Performance,2026-03-13,TECH-029,20.0,Resolved,588.74,5
+439,Texas,Grid Connection,2026-04-06,TECH-021,50.8,Pending Parts,351.91,
+440,Texas,Battery Performance,2026-04-11,TECH-010,30.3,Resolved,398.7,4
+441,Nevada,Charging,2026-03-08,TECH-011,22.8,Pending Parts,484.72,
+442,Texas,Charging,2026-04-26,TECH-004,22.6,Resolved,293.7,4
+443,New York,Grid Connection,2026-02-12,TECH-010,8.7,Resolved,416.14,4
+444,Nevada,Charging,2026-04-29,TECH-027,68.0,Escalated,456.76,
+445,California,Installation,2026-06-30,TECH-023,21.9,Resolved,589.27,4
+446,California,Charging,2026-03-05,TECH-013,25.2,Resolved,355.71,4
+447,Texas,Warranty,2026-04-26,TECH-004,45.0,Open,475.89,
+448,New York,Battery Performance,2026-01-04,TECH-012,52.9,Open,311.9,
+449,California,Installation,2026-06-25,TECH-001,62.2,Pending Parts,413.69,
+450,Nevada,Solar Inverter,2026-01-17,TECH-004,37.6,Escalated,345.58,
+451,New York,Grid Connection,2026-01-11,TECH-001,26.5,Resolved,251.55,5
+452,Nevada,Installation,2026-04-08,TECH-015,6.0,Resolved,563.06,5
+453,New York,Battery Performance,2026-02-08,TECH-029,8.4,Resolved,184.47,2
+454,Arizona,Grid Connection,2026-05-21,TECH-029,17.1,Resolved,394.74,4
+455,Arizona,Solar Inverter,2026-05-15,TECH-012,23.2,Resolved,84.08,5
+456,Nevada,Warranty,2026-05-03,TECH-013,34.2,Open,470.15,
+457,California,Solar Inverter,2026-03-11,TECH-026,16.2,Resolved,300.43,5
+458,California,Warranty,2026-05-01,TECH-008,12.3,Resolved,268.68,4
+459,Texas,Solar Inverter,2026-06-18,TECH-019,26.1,Resolved,50,3
+460,Texas,Charging,2026-04-10,TECH-019,54.3,Pending Parts,315.41,
+461,Florida,Installation,2026-03-23,TECH-019,19.8,Resolved,302.77,5
+462,New York,Warranty,2026-02-06,TECH-018,59.2,Pending Parts,101.64,
+463,California,Solar Inverter,2026-03-21,TECH-017,23.5,Resolved,374.73,4
+464,Arizona,Battery Performance,2026-05-03,TECH-006,5.7,Resolved,153.25,5
+465,Florida,Battery Performance,2026-03-24,TECH-028,1,Resolved,158.2,4
+466,Nevada,Battery Performance,2026-04-04,TECH-010,26.4,Resolved,269.86,4
+467,Arizona,Solar Inverter,2026-03-24,TECH-016,43.2,Pending Parts,170.89,
+468,Texas,Charging,2026-06-16,TECH-022,31.6,Resolved,277.98,5
+469,Arizona,Solar Inverter,2026-05-31,TECH-001,17.2,Resolved,203.65,4
+470,Texas,Warranty,2026-06-29,TECH-020,41.3,Resolved,306.97,3
+471,Nevada,Warranty,2026-03-23,TECH-024,1,Resolved,188.33,4
+472,Arizona,Solar Inverter,2026-01-20,TECH-022,12.6,Resolved,500.39,4
+473,Texas,Installation,2026-06-13,TECH-023,33.9,Escalated,356.17,
+474,New York,Charging,2026-01-18,TECH-024,18.4,Resolved,324.45,5
+475,Florida,Solar Inverter,2026-04-18,TECH-013,30.4,Escalated,325.94,
+476,Texas,Grid Connection,2026-01-26,TECH-006,22.7,Open,208.88,
+477,Nevada,Battery Performance,2026-04-26,TECH-004,48.0,Open,325.88,
+478,Nevada,Charging,2026-01-19,TECH-020,7.6,Resolved,480.18,4
+479,Texas,Grid Connection,2026-06-07,TECH-002,6.1,Resolved,405.27,5
+480,Arizona,Charging,2026-01-26,TECH-010,23.1,Resolved,521.2,5
+481,Texas,Solar Inverter,2026-03-18,TECH-002,9.1,Resolved,430.22,2
+482,Texas,Battery Performance,2026-04-03,TECH-004,14.3,Resolved,518.19,2
+483,Nevada,Solar Inverter,2026-01-07,TECH-026,17.0,Resolved,375.9,4
+484,Texas,Grid Connection,2026-04-12,TECH-012,15.9,Resolved,268.11,5
+485,Texas,Charging,2026-04-08,TECH-027,27.3,Resolved,361.7,5
+486,Arizona,Warranty,2026-03-10,TECH-012,18.2,Resolved,112.27,4
+487,New York,Grid Connection,2026-05-19,TECH-027,28.9,Pending Parts,224.98,
+488,Florida,Grid Connection,2026-05-14,TECH-029,31.4,Pending Parts,50,
+489,Florida,Grid Connection,2026-03-02,TECH-019,4.1,Resolved,488.58,3
+490,Texas,Warranty,2026-05-13,TECH-006,14.7,Resolved,271.39,2
+491,Texas,Solar Inverter,2026-02-24,TECH-027,1,Resolved,513.33,5
+492,California,Solar Inverter,2026-06-10,TECH-003,43.4,Open,627.43,
+493,California,Warranty,2026-04-10,TECH-026,14.7,Resolved,419.93,2
+494,Texas,Warranty,2026-06-29,TECH-019,18.9,Resolved,252.95,4
+495,Florida,Warranty,2026-05-31,TECH-025,76.7,Open,202.07,
+496,Nevada,Charging,2026-01-26,TECH-013,67.4,Escalated,123.64,
+497,Texas,Grid Connection,2026-06-17,TECH-020,12.5,Resolved,334.51,5
+498,Arizona,Installation,2026-06-05,TECH-008,36.3,Resolved,390.91,5
+499,Nevada,Installation,2026-01-13,TECH-010,17.0,Resolved,454.22,5
+500,Texas,Grid Connection,2026-03-13,TECH-005,29.0,Escalated,50,
+501,Florida,Installation,2026-03-18,TECH-021,21.3,Resolved,221.42,5
+502,Florida,Solar Inverter,2026-01-23,TECH-028,25.9,Resolved,245.91,2
+503,Texas,Battery Performance,2026-04-06,TECH-025,22.2,Resolved,421.63,5
+504,Texas,Warranty,2026-05-15,TECH-002,24.0,Resolved,567.9,3
+505,New York,Battery Performance,2026-04-27,TECH-017,41.6,Escalated,212.49,
+506,New York,Installation,2026-04-12,TECH-020,40.3,Pending Parts,225.39,
+507,Nevada,Solar Inverter,2026-04-25,TECH-006,26.3,Pending Parts,348.19,
+508,California,Installation,2026-03-08,TECH-006,48.0,Open,337.77,
+509,Nevada,Solar Inverter,2026-05-27,TECH-021,31.4,Escalated,151.62,
+510,New York,Warranty,2026-04-15,TECH-030,20.9,Resolved,85.16,3
+511,Arizona,Installation,2026-02-03,TECH-023,20.0,Resolved,225.4,5
+512,Texas,Charging,2026-06-14,TECH-015,12.1,Resolved,410.82,5
+513,Florida,Installation,2026-03-19,TECH-022,9.5,Resolved,189.95,3
+514,New York,Warranty,2026-04-06,TECH-003,12.1,Resolved,245.4,4
+515,Texas,Charging,2026-03-28,TECH-005,22.5,Resolved,236.73,5
+516,Florida,Solar Inverter,2026-05-13,TECH-013,54.2,Escalated,83.03,
+517,Nevada,Charging,2026-06-19,TECH-030,15.6,Resolved,118.96,5
+518,Nevada,Grid Connection,2026-04-18,TECH-024,31.8,Resolved,368.35,4
+519,Florida,Installation,2026-02-26,TECH-010,22.3,Resolved,50,5
+520,Texas,Installation,2026-02-13,TECH-024,47.9,Escalated,377.6,
+521,Arizona,Installation,2026-03-08,TECH-029,45.8,Open,231.26,
+522,New York,Installation,2026-03-27,TECH-026,8.9,Resolved,502.42,5
+523,California,Charging,2026-03-26,TECH-028,13.2,Resolved,582.89,2
+524,Florida,Warranty,2026-06-12,TECH-004,10.6,Resolved,211.18,4
+525,Texas,Grid Connection,2026-06-24,TECH-007,2.4,Resolved,467.08,4
+526,Texas,Grid Connection,2026-03-29,TECH-011,79.5,Pending Parts,63.51,
+527,California,Battery Performance,2026-02-16,TECH-015,14.2,Resolved,255.95,3
+528,New York,Solar Inverter,2026-03-12,TECH-026,57.5,Open,527.62,
+529,New York,Solar Inverter,2026-01-23,TECH-001,11.9,Resolved,214.17,2
+530,Florida,Warranty,2026-01-10,TECH-007,16.9,Resolved,336.87,5
+531,Nevada,Installation,2026-01-05,TECH-005,17.3,Resolved,220.25,5
+532,Nevada,Grid Connection,2026-01-27,TECH-010,16.9,Resolved,368.28,3
+533,Nevada,Installation,2026-04-27,TECH-029,8.5,Resolved,297.46,4
+534,New York,Charging,2026-05-06,TECH-001,61.7,Open,582.46,
+535,Florida,Solar Inverter,2026-02-28,TECH-017,61.6,Open,487.28,
+536,Florida,Battery Performance,2026-02-13,TECH-020,16.5,Resolved,288.67,5
+537,California,Warranty,2026-01-13,TECH-002,33.5,Pending Parts,146.55,
+538,Arizona,Battery Performance,2026-06-26,TECH-005,9.7,Resolved,440.45,2
+539,Arizona,Installation,2026-02-22,TECH-017,27.4,Resolved,328.55,4
+540,Florida,Warranty,2026-03-11,TECH-024,29.0,Resolved,520.26,4
+541,Nevada,Battery Performance,2026-06-08,TECH-027,20.3,Resolved,159.6,4
+542,Texas,Solar Inverter,2026-05-14,TECH-023,13.5,Resolved,364.46,2
+543,Florida,Charging,2026-05-04,TECH-022,21.9,Resolved,324.84,4
+544,Arizona,Solar Inverter,2026-05-07,TECH-004,46.1,Pending Parts,265.65,
+545,California,Installation,2026-03-07,TECH-004,25.5,Resolved,311.65,2
+546,New York,Battery Performance,2026-02-14,TECH-024,30.6,Escalated,481.94,
+547,Texas,Battery Performance,2026-01-30,TECH-022,46.6,Escalated,307.59,
+548,Arizona,Solar Inverter,2026-06-15,TECH-003,35.7,Resolved,105.42,5
+549,New York,Charging,2026-04-06,TECH-023,1,Resolved,529.29,5
+550,Texas,Grid Connection,2026-05-03,TECH-004,19.3,Resolved,254.38,3
+551,Nevada,Warranty,2026-04-17,TECH-020,9.2,Resolved,256.9,5
+552,New York,Installation,2026-01-08,TECH-030,40.5,Escalated,50,
+553,Arizona,Battery Performance,2026-05-05,TECH-011,39.9,Escalated,338.44,
+554,Arizona,Installation,2026-01-04,TECH-019,20.6,Escalated,284.13,
+555,Florida,Installation,2026-02-27,TECH-004,22.3,Escalated,294.41,
+556,Arizona,Installation,2026-04-21,TECH-013,23.0,Open,343.42,
+557,Texas,Warranty,2026-02-08,TECH-017,43.3,Escalated,306.04,
+558,Texas,Grid Connection,2026-05-01,TECH-011,60.6,Escalated,393.81,
+559,California,Battery Performance,2026-03-13,TECH-015,9.7,Resolved,277.39,4
+560,New York,Warranty,2026-04-24,TECH-024,24.1,Resolved,200.52,4
+561,California,Battery Performance,2026-06-17,TECH-026,8.2,Resolved,413.52,3
+562,Nevada,Warranty,2026-06-04,TECH-012,26.9,Resolved,205.38,2
+563,Florida,Solar Inverter,2026-01-14,TECH-016,32.4,Escalated,528.09,
+564,California,Charging,2026-06-18,TECH-011,29.5,Resolved,475.17,4
+565,Arizona,Installation,2026-04-01,TECH-004,40.2,Pending Parts,484.22,
+566,California,Solar Inverter,2026-01-12,TECH-009,24.5,Resolved,112.48,5
+567,Texas,Solar Inverter,2026-06-06,TECH-023,26.1,Resolved,260.62,2
+568,Arizona,Battery Performance,2026-03-28,TECH-019,65.3,Open,377.11,
+569,California,Grid Connection,2026-02-01,TECH-017,9.0,Resolved,231.74,2
+570,Florida,Warranty,2026-01-13,TECH-025,54.1,Pending Parts,183.6,
+571,Arizona,Installation,2026-02-15,TECH-020,17.4,Resolved,247.16,5
+572,Nevada,Charging,2026-06-05,TECH-013,1,Resolved,578.77,4
+573,Arizona,Charging,2026-03-29,TECH-018,24.2,Resolved,427.37,5
+574,Texas,Installation,2026-03-22,TECH-020,35.1,Open,287.62,
+575,Florida,Installation,2026-03-16,TECH-018,6.1,Resolved,50,4
+576,Florida,Installation,2026-06-27,TECH-019,24.3,Resolved,406.53,2
+577,New York,Installation,2026-06-20,TECH-026,17.8,Resolved,51.36,5
+578,Texas,Warranty,2026-01-04,TECH-009,15.8,Resolved,351.46,3
+579,Texas,Charging,2026-02-11,TECH-025,20.0,Resolved,359.86,5
+580,Arizona,Battery Performance,2026-05-19,TECH-021,6.1,Resolved,376.85,4
+581,Arizona,Grid Connection,2026-05-24,TECH-022,21.4,Resolved,75.08,5
+582,Florida,Grid Connection,2026-01-13,TECH-002,41.7,Resolved,217.36,5
+583,Texas,Installation,2026-01-04,TECH-030,6.6,Resolved,152.37,2
+584,Arizona,Installation,2026-06-12,TECH-007,9.9,Resolved,457.78,4
+585,Arizona,Grid Connection,2026-03-17,TECH-017,15.6,Resolved,237.86,4
+586,Florida,Grid Connection,2026-01-31,TECH-028,16.7,Resolved,427.85,4
+587,Nevada,Battery Performance,2026-03-07,TECH-020,16.7,Resolved,241.39,4
+588,California,Installation,2026-01-14,TECH-026,12.5,Resolved,181.69,5
+589,New York,Warranty,2026-03-23,TECH-018,19.4,Resolved,368.13,4
+590,Nevada,Grid Connection,2026-05-18,TECH-012,19.1,Resolved,415.41,5
+591,Florida,Solar Inverter,2026-03-17,TECH-027,32.5,Pending Parts,212.49,
+592,California,Battery Performance,2026-06-16,TECH-022,14.2,Resolved,405.49,4
+593,Florida,Grid Connection,2026-03-24,TECH-024,58.9,Escalated,273.16,
+594,Florida,Battery Performance,2026-03-14,TECH-015,51.4,Escalated,197.97,
+595,California,Battery Performance,2026-05-05,TECH-006,13.4,Resolved,219.78,4
+596,Arizona,Warranty,2026-05-18,TECH-014,30.3,Resolved,403.4,4
+597,Arizona,Solar Inverter,2026-01-27,TECH-027,10.8,Resolved,50,5
+598,California,Installation,2026-01-19,TECH-003,32.1,Resolved,353.07,3
+599,Texas,Solar Inverter,2026-01-14,TECH-030,26.7,Open,254.64,
+600,New York,Grid Connection,2026-03-08,TECH-022,11.4,Resolved,211.14,3
+601,Arizona,Warranty,2026-01-31,TECH-028,17.4,Resolved,270.28,3
+602,Nevada,Charging,2026-01-19,TECH-020,65.7,Pending Parts,472.27,
+603,Arizona,Charging,2026-01-23,TECH-001,31.1,Open,373.58,
+604,Arizona,Solar Inverter,2026-05-02,TECH-005,23.9,Resolved,425.38,5
+605,Arizona,Installation,2026-03-18,TECH-012,74.4,Escalated,259.27,
+606,Florida,Warranty,2026-01-03,TECH-020,47.8,Escalated,351.74,
+607,Texas,Warranty,2026-04-11,TECH-014,23.3,Resolved,369.01,5
+608,Texas,Warranty,2026-06-15,TECH-004,23.0,Resolved,497.49,5
+609,Florida,Installation,2026-02-16,TECH-015,62.5,Open,101.13,
+610,Arizona,Warranty,2026-06-15,TECH-019,14.8,Resolved,226.26,4
+611,Florida,Charging,2026-05-05,TECH-003,14.9,Resolved,229.91,5
+612,Florida,Charging,2026-02-19,TECH-019,11.8,Resolved,501.08,4
+613,Texas,Charging,2026-04-04,TECH-023,51.4,Pending Parts,425.85,
+614,New York,Grid Connection,2026-06-14,TECH-015,9.4,Resolved,483.18,5
+615,Arizona,Charging,2026-04-25,TECH-020,37.8,Open,325.5,
+616,Nevada,Charging,2026-01-21,TECH-024,56.9,Escalated,454.17,
+617,Arizona,Battery Performance,2026-06-10,TECH-001,67.7,Open,149.09,
+618,Florida,Warranty,2026-05-29,TECH-029,1.5,Resolved,156.7,5
+619,Texas,Grid Connection,2026-05-19,TECH-015,23.3,Resolved,432.37,5
+620,Florida,Warranty,2026-05-09,TECH-022,17.1,Resolved,335.42,4
+621,Arizona,Warranty,2026-02-12,TECH-024,24.3,Resolved,472.33,4
+622,Nevada,Charging,2026-05-04,TECH-008,18.5,Resolved,218.6,5
+623,New York,Installation,2026-01-11,TECH-029,25.1,Resolved,247.38,2
+624,Florida,Battery Performance,2026-01-12,TECH-021,34.5,Pending Parts,515.15,
+625,Nevada,Installation,2026-03-12,TECH-019,12.7,Resolved,296.2,5
+626,Nevada,Battery Performance,2026-06-17,TECH-027,4.0,Resolved,534.07,5
+627,Texas,Grid Connection,2026-03-30,TECH-015,46.3,Open,309.51,
+628,Texas,Solar Inverter,2026-02-12,TECH-012,14.2,Resolved,244.31,4
+629,Nevada,Installation,2026-06-04,TECH-024,36.8,Open,197.13,
+630,California,Grid Connection,2026-01-30,TECH-008,6.1,Resolved,344.6,5
+631,Florida,Solar Inverter,2026-01-12,TECH-005,24.7,Resolved,487.33,3
+632,Arizona,Solar Inverter,2026-01-15,TECH-024,27.7,Resolved,639.29,3
+633,New York,Charging,2026-06-19,TECH-028,49.3,Pending Parts,507.02,
+634,Florida,Solar Inverter,2026-05-04,TECH-022,13.8,Resolved,361.31,4
+635,Texas,Charging,2026-05-11,TECH-013,10.0,Resolved,50,4
+636,Texas,Solar Inverter,2026-04-09,TECH-020,23.3,Resolved,585.07,5
+637,California,Solar Inverter,2026-01-25,TECH-016,16.1,Resolved,293.92,4
+638,Arizona,Solar Inverter,2026-06-18,TECH-021,44.3,Escalated,318.32,
+639,Texas,Warranty,2026-04-21,TECH-026,27.8,Resolved,166.72,5
+640,New York,Grid Connection,2026-05-04,TECH-005,24.6,Resolved,50,4
+641,Florida,Grid Connection,2026-03-07,TECH-029,50.3,Open,288.64,
+642,Florida,Grid Connection,2026-05-20,TECH-017,32.8,Resolved,327.94,3
+643,New York,Warranty,2026-01-31,TECH-012,10.2,Resolved,143.67,5
+644,Florida,Solar Inverter,2026-01-28,TECH-012,12.0,Resolved,264.32,5
+645,Florida,Charging,2026-06-06,TECH-026,36.9,Pending Parts,376.76,
+646,Florida,Grid Connection,2026-05-23,TECH-012,8.4,Resolved,261.59,5
+647,Arizona,Grid Connection,2026-06-30,TECH-008,58.5,Open,157.67,
+648,Nevada,Installation,2026-04-25,TECH-026,59.4,Pending Parts,418.29,
+649,California,Warranty,2026-05-21,TECH-027,16.6,Resolved,240.16,3
+650,Texas,Grid Connection,2026-02-07,TECH-012,40.0,Pending Parts,340.12,
+651,Arizona,Warranty,2026-01-21,TECH-020,1,Resolved,588.45,5
+652,Texas,Solar Inverter,2026-01-15,TECH-002,12.4,Resolved,355.16,5
+653,Nevada,Warranty,2026-06-03,TECH-008,18.6,Resolved,404.76,3
+654,New York,Battery Performance,2026-06-17,TECH-012,55.3,Pending Parts,378.39,
+655,California,Grid Connection,2026-06-21,TECH-018,18.5,Resolved,343.45,4
+656,Nevada,Installation,2026-03-14,TECH-008,56.9,Open,254.08,
+657,New York,Solar Inverter,2026-06-05,TECH-017,17.3,Resolved,327.67,4
+658,Florida,Warranty,2026-01-28,TECH-027,12.0,Resolved,646.32,5
+659,Nevada,Charging,2026-05-28,TECH-025,29.3,Resolved,281.86,4
+660,Nevada,Installation,2026-04-28,TECH-003,16.2,Resolved,302.89,4
+661,Nevada,Installation,2026-04-08,TECH-014,49.3,Open,533.84,
+662,California,Warranty,2026-04-01,TECH-013,15.9,Resolved,215.73,5
+663,New York,Installation,2026-06-22,TECH-011,75.8,Open,469.0,
+664,Arizona,Solar Inverter,2026-04-01,TECH-030,40.7,Escalated,657.03,
+665,Nevada,Grid Connection,2026-02-18,TECH-007,46.1,Open,423.76,
+666,California,Solar Inverter,2026-02-28,TECH-004,52.3,Open,207.51,
+667,Florida,Installation,2026-01-21,TECH-002,43.3,Pending Parts,320.74,
+668,New York,Charging,2026-05-04,TECH-006,1,Resolved,339.58,5
+669,New York,Charging,2026-05-11,TECH-018,18.0,Resolved,246.65,5
+670,California,Warranty,2026-01-09,TECH-023,28.0,Resolved,133.82,2
+671,Florida,Grid Connection,2026-05-13,TECH-004,31.5,Resolved,331.08,5
+672,Nevada,Charging,2026-03-25,TECH-016,17.3,Resolved,496.24,4
+673,Nevada,Charging,2026-06-06,TECH-028,11.8,Resolved,320.74,5
+674,California,Charging,2026-04-13,TECH-024,1,Resolved,150.91,4
+675,New York,Solar Inverter,2026-03-11,TECH-026,21.7,Resolved,247.39,4
+676,New York,Solar Inverter,2026-01-03,TECH-010,30.6,Resolved,541.5,5
+677,Texas,Warranty,2026-03-06,TECH-002,51.5,Escalated,338.87,
+678,Nevada,Charging,2026-02-25,TECH-012,11.3,Resolved,208.52,5
+679,California,Warranty,2026-04-03,TECH-012,21.0,Resolved,200.45,5
+680,Nevada,Warranty,2026-06-23,TECH-012,6.4,Resolved,227.0,4
+681,New York,Installation,2026-03-25,TECH-020,19.5,Resolved,169.47,4
+682,New York,Grid Connection,2026-03-15,TECH-021,21.3,Resolved,386.95,5
+683,Texas,Warranty,2026-06-06,TECH-011,21.0,Resolved,288.67,5
+684,New York,Installation,2026-03-23,TECH-025,16.6,Resolved,520.18,5
+685,California,Installation,2026-04-03,TECH-005,27.1,Resolved,288.89,4
+686,Texas,Installation,2026-03-02,TECH-013,17.4,Resolved,87.14,4
+687,New York,Battery Performance,2026-01-27,TECH-017,26.2,Resolved,198.1,3
+688,Nevada,Battery Performance,2026-01-22,TECH-008,25.4,Resolved,489.09,5
+689,California,Installation,2026-03-05,TECH-002,14.7,Resolved,266.99,4
+690,Florida,Charging,2026-06-19,TECH-030,37.2,Escalated,461.76,
+691,Florida,Warranty,2026-03-11,TECH-020,31.7,Resolved,278.81,4
+692,Arizona,Installation,2026-04-27,TECH-021,56.5,Open,215.76,
+693,California,Charging,2026-05-17,TECH-015,34.3,Escalated,331.56,
+694,Nevada,Charging,2026-03-20,TECH-010,18.7,Resolved,336.92,4
+695,Nevada,Warranty,2026-05-01,TECH-001,37.2,Resolved,160.46,2
+696,New York,Charging,2026-04-21,TECH-029,21.3,Resolved,151.08,4
+697,New York,Grid Connection,2026-05-24,TECH-008,25.6,Resolved,515.7,5
+698,Nevada,Battery Performance,2026-03-09,TECH-021,19.0,Resolved,557.59,5
+699,California,Charging,2026-05-17,TECH-021,21.5,Resolved,249.28,5
+700,California,Warranty,2026-04-27,TECH-005,14.8,Resolved,164.89,5
+701,Arizona,Warranty,2026-01-13,TECH-015,25.2,Resolved,300.28,4
+702,Nevada,Solar Inverter,2026-01-03,TECH-026,24.3,Resolved,329.05,5
+703,California,Charging,2026-05-08,TECH-009,20.1,Resolved,198.87,4
+704,New York,Battery Performance,2026-04-11,TECH-027,26.0,Resolved,590.61,5
+705,New York,Battery Performance,2026-01-04,TECH-008,41.7,Pending Parts,185.39,
+706,New York,Solar Inverter,2026-01-09,TECH-013,19.4,Resolved,151.58,4
+707,Arizona,Charging,2026-06-24,TECH-030,58.2,Pending Parts,509.74,
+708,California,Warranty,2026-05-21,TECH-028,10.5,Resolved,333.88,5
+709,California,Solar Inverter,2026-06-20,TECH-006,46.4,Pending Parts,468.83,
+710,Florida,Warranty,2026-03-12,TECH-026,18.3,Resolved,301.81,3
+711,Texas,Grid Connection,2026-06-26,TECH-016,26.7,Resolved,518.75,4
+712,California,Installation,2026-01-24,TECH-012,45.8,Resolved,119.28,3
+713,Nevada,Solar Inverter,2026-06-15,TECH-018,19.2,Resolved,249.85,4
+714,Arizona,Charging,2026-06-15,TECH-013,35.9,Open,354.43,
+715,Florida,Installation,2026-04-02,TECH-010,26.3,Resolved,224.06,2
+716,Arizona,Installation,2026-05-19,TECH-015,7.7,Resolved,248.64,5
+717,Texas,Warranty,2026-03-12,TECH-015,39.7,Escalated,302.23,
+718,Arizona,Charging,2026-03-17,TECH-006,3.1,Resolved,388.9,5
+719,Arizona,Warranty,2026-01-05,TECH-003,46.8,Escalated,217.96,
+720,Florida,Warranty,2026-06-18,TECH-005,53.4,Open,517.31,
+721,California,Charging,2026-06-06,TECH-027,15.2,Resolved,267.56,4
+722,California,Solar Inverter,2026-02-03,TECH-002,50.1,Escalated,474.11,
+723,Arizona,Installation,2026-05-27,TECH-019,35.0,Open,176.81,
+724,Arizona,Battery Performance,2026-03-07,TECH-016,15.3,Resolved,286.85,4
+725,New York,Grid Connection,2026-01-21,TECH-027,62.8,Open,386.59,
+726,Nevada,Installation,2026-04-05,TECH-003,9.8,Resolved,204.83,4
+727,Texas,Warranty,2026-02-25,TECH-017,16.3,Resolved,149.65,4
+728,Arizona,Solar Inverter,2026-06-18,TECH-004,28.9,Resolved,262.02,5
+729,Texas,Warranty,2026-06-13,TECH-026,5.1,Resolved,373.12,4
+730,Nevada,Warranty,2026-02-16,TECH-029,15.2,Resolved,390.05,2
+731,Arizona,Warranty,2026-03-22,TECH-014,38.5,Pending Parts,440.4,
+732,Nevada,Warranty,2026-03-24,TECH-015,9.6,Resolved,281.61,5
+733,Florida,Grid Connection,2026-04-25,TECH-005,25.2,Resolved,344.75,3
+734,Arizona,Battery Performance,2026-03-19,TECH-027,21.1,Resolved,591.2,3
+735,California,Warranty,2026-03-12,TECH-015,7.4,Resolved,241.69,4
+736,Nevada,Solar Inverter,2026-04-02,TECH-026,10.0,Resolved,457.12,4
+737,Arizona,Battery Performance,2026-03-18,TECH-011,12.3,Resolved,278.78,4
+738,Florida,Solar Inverter,2026-05-04,TECH-021,29.3,Resolved,190.72,4
+739,California,Battery Performance,2026-03-18,TECH-030,39.6,Open,293.9,
+740,California,Charging,2026-03-27,TECH-028,13.3,Escalated,449.61,
+741,California,Installation,2026-02-28,TECH-010,16.9,Resolved,307.27,5
+742,Texas,Battery Performance,2026-05-15,TECH-002,10.6,Resolved,270.6,4
+743,Florida,Installation,2026-06-22,TECH-017,69.7,Pending Parts,277.64,
+744,California,Solar Inverter,2026-01-24,TECH-016,19.2,Resolved,242.82,5
+745,Arizona,Installation,2026-05-27,TECH-005,14.9,Resolved,354.94,5
+746,Florida,Grid Connection,2026-02-04,TECH-020,5.0,Resolved,335.5,4
+747,California,Solar Inverter,2026-05-15,TECH-022,17.0,Resolved,467.68,4
+748,Nevada,Grid Connection,2026-04-16,TECH-006,21.0,Resolved,439.79,3
+749,New York,Warranty,2026-03-31,TECH-002,51.8,Open,135.06,
+750,California,Solar Inverter,2026-03-01,TECH-024,26.1,Resolved,507.76,4
+751,Nevada,Solar Inverter,2026-01-14,TECH-001,72.1,Pending Parts,194.65,
+752,Nevada,Installation,2026-03-29,TECH-007,39.3,Open,468.65,
+753,Florida,Solar Inverter,2026-05-18,TECH-024,11.1,Resolved,304.22,2
+754,Nevada,Installation,2026-02-06,TECH-006,29.8,Resolved,341.35,3
+755,Arizona,Charging,2026-01-16,TECH-001,15.6,Resolved,214.85,2
+756,California,Grid Connection,2026-01-18,TECH-001,7.7,Resolved,55.8,5
+757,Nevada,Installation,2026-03-16,TECH-016,28.6,Resolved,298.87,4
+758,California,Warranty,2026-06-02,TECH-008,25.4,Resolved,666.65,3
+759,Arizona,Charging,2026-05-16,TECH-012,13.9,Resolved,370.8,5
+760,California,Installation,2026-04-01,TECH-021,42.9,Resolved,310.23,5
+761,Florida,Grid Connection,2026-03-07,TECH-009,46.5,Escalated,288.56,
+762,Florida,Solar Inverter,2026-02-27,TECH-022,14.2,Resolved,367.44,5
+763,Nevada,Installation,2026-06-06,TECH-030,7.8,Resolved,410.64,5
+764,Texas,Charging,2026-06-04,TECH-010,26.9,Resolved,469.92,4
+765,Texas,Installation,2026-06-26,TECH-021,58.4,Escalated,240.11,
+766,Texas,Solar Inverter,2026-05-25,TECH-011,1,Resolved,199.75,4
+767,Nevada,Installation,2026-02-07,TECH-015,7.9,Resolved,661.6,5
+768,California,Installation,2026-06-13,TECH-025,18.8,Resolved,254.58,4
+769,Texas,Warranty,2026-06-06,TECH-022,12.0,Resolved,278.52,4
+770,Arizona,Charging,2026-01-07,TECH-021,18.9,Resolved,246.19,2
+771,Texas,Solar Inverter,2026-04-06,TECH-008,36.9,Escalated,324.09,
+772,New York,Grid Connection,2026-01-09,TECH-008,56.8,Open,330.46,
+773,New York,Solar Inverter,2026-06-21,TECH-028,76.4,Open,449.34,
+774,New York,Grid Connection,2026-06-07,TECH-025,30.6,Resolved,102.61,5
+775,Florida,Warranty,2026-01-11,TECH-024,35.5,Open,402.82,
+776,Florida,Warranty,2026-05-27,TECH-004,9.1,Resolved,150.44,3
+777,Florida,Grid Connection,2026-04-26,TECH-018,92.9,Open,442.08,
+778,Texas,Installation,2026-04-12,TECH-010,6.4,Resolved,474.89,3
+779,Texas,Grid Connection,2026-04-23,TECH-014,46.8,Escalated,206.37,
+780,New York,Warranty,2026-03-17,TECH-027,33.0,Escalated,50,
+781,New York,Grid Connection,2026-06-15,TECH-014,12.3,Resolved,319.64,4
+782,New York,Grid Connection,2026-03-24,TECH-003,1,Resolved,405.58,4
+783,California,Charging,2026-03-06,TECH-004,31.4,Resolved,182.4,4
+784,New York,Grid Connection,2026-06-30,TECH-018,30.1,Resolved,432.07,4
+785,Arizona,Battery Performance,2026-04-08,TECH-028,61.5,Open,225.31,
+786,New York,Solar Inverter,2026-02-08,TECH-010,55.2,Escalated,519.21,
+787,California,Installation,2026-03-21,TECH-029,25.1,Open,385.09,
+788,New York,Solar Inverter,2026-02-03,TECH-018,18.1,Resolved,298.16,2
+789,New York,Warranty,2026-01-02,TECH-015,46.5,Escalated,506.12,
+790,Florida,Grid Connection,2026-04-15,TECH-021,12.5,Resolved,258.29,5
+791,Texas,Solar Inverter,2026-05-23,TECH-028,25.8,Resolved,483.53,3
+792,California,Installation,2026-01-09,TECH-004,11.6,Resolved,244.12,4
+793,New York,Solar Inverter,2026-04-17,TECH-024,15.2,Resolved,521.12,4
+794,Nevada,Charging,2026-05-29,TECH-029,55.5,Pending Parts,385.21,
+795,New York,Battery Performance,2026-04-08,TECH-005,48.0,Open,277.27,
+796,Texas,Installation,2026-02-01,TECH-023,37.6,Escalated,447.13,
+797,New York,Warranty,2026-02-23,TECH-024,1,Resolved,150.92,4
+798,Florida,Warranty,2026-06-26,TECH-028,57.3,Pending Parts,310.08,
+799,Florida,Charging,2026-03-23,TECH-019,26.4,Resolved,315.91,4
+800,Florida,Warranty,2026-05-08,TECH-008,17.8,Open,323.61,
+801,Arizona,Solar Inverter,2026-03-16,TECH-028,30.5,Resolved,349.46,4
+802,Florida,Warranty,2026-02-23,TECH-026,33.4,Pending Parts,384.88,
+803,Nevada,Solar Inverter,2026-06-13,TECH-010,20.2,Resolved,428.55,4
+804,New York,Warranty,2026-05-10,TECH-024,31.7,Resolved,328.21,5
+805,Nevada,Warranty,2026-05-26,TECH-030,49.9,Pending Parts,240.0,
+806,New York,Grid Connection,2026-06-22,TECH-005,51.3,Escalated,127.16,
+807,New York,Grid Connection,2026-06-10,TECH-030,31.8,Escalated,290.88,
+808,Texas,Warranty,2026-01-15,TECH-019,16.8,Resolved,199.61,3
+809,Texas,Charging,2026-06-25,TECH-009,55.7,Open,235.39,
+810,Florida,Charging,2026-01-08,TECH-020,24.8,Pending Parts,127.9,
+811,Arizona,Solar Inverter,2026-04-10,TECH-002,27.9,Resolved,144.35,5
+812,Texas,Grid Connection,2026-03-11,TECH-017,24.2,Resolved,225.81,5
+813,New York,Solar Inverter,2026-03-19,TECH-017,21.4,Resolved,83.01,4
+814,New York,Grid Connection,2026-01-07,TECH-024,52.8,Escalated,425.16,
+815,Florida,Charging,2026-05-15,TECH-022,63.9,Open,542.34,
+816,Florida,Solar Inverter,2026-02-03,TECH-004,22.0,Open,375.91,
+817,California,Charging,2026-01-02,TECH-011,37.2,Pending Parts,146.47,
+818,Florida,Battery Performance,2026-04-30,TECH-025,19.5,Resolved,89.57,3
+819,Nevada,Installation,2026-03-21,TECH-018,40.8,Escalated,402.63,
+820,California,Grid Connection,2026-03-23,TECH-020,17.3,Resolved,401.13,4
+821,Texas,Warranty,2026-05-24,TECH-023,7.0,Resolved,273.33,5
+822,Florida,Warranty,2026-03-14,TECH-015,29.2,Resolved,403.53,5
+823,California,Solar Inverter,2026-01-13,TECH-003,20.4,Resolved,294.28,5
+824,Florida,Grid Connection,2026-04-20,TECH-012,8.1,Resolved,213.43,2
+825,Florida,Charging,2026-03-21,TECH-003,39.8,Open,116.93,
+826,California,Warranty,2026-04-30,TECH-015,25.8,Resolved,50,2
+827,Texas,Installation,2026-03-21,TECH-028,19.0,Resolved,162.96,4
+828,Arizona,Charging,2026-06-07,TECH-011,26.9,Escalated,456.21,
+829,New York,Grid Connection,2026-03-25,TECH-028,22.0,Resolved,347.36,2
+830,California,Charging,2026-02-13,TECH-013,38.8,Open,275.41,
+831,New York,Charging,2026-01-28,TECH-019,24.9,Resolved,371.18,2
+832,California,Solar Inverter,2026-04-16,TECH-011,1,Resolved,207.83,5
+833,Florida,Installation,2026-02-23,TECH-023,20.1,Resolved,173.78,5
+834,California,Solar Inverter,2026-03-02,TECH-019,36.4,Resolved,472.14,2
+835,New York,Grid Connection,2026-06-02,TECH-003,26.0,Resolved,407.51,5
+836,New York,Battery Performance,2026-06-03,TECH-021,4.3,Resolved,172.41,5
+837,Texas,Battery Performance,2026-06-19,TECH-022,25.7,Resolved,53.06,3
+838,Texas,Grid Connection,2026-02-08,TECH-022,8.9,Resolved,437.23,4
+839,Arizona,Charging,2026-03-23,TECH-030,24.6,Resolved,258.11,5
+840,Nevada,Battery Performance,2026-03-30,TECH-002,9.8,Resolved,212.14,4
+841,Nevada,Warranty,2026-04-05,TECH-004,64.2,Pending Parts,320.95,
+842,Arizona,Battery Performance,2026-03-14,TECH-013,15.3,Resolved,186.08,5
+843,Texas,Grid Connection,2026-04-14,TECH-018,19.3,Resolved,403.85,4
+844,Arizona,Charging,2026-04-09,TECH-005,74.3,Open,718.99,
+845,Arizona,Battery Performance,2026-02-04,TECH-014,32.3,Resolved,342.05,2
+846,Florida,Battery Performance,2026-02-04,TECH-006,24.1,Resolved,59.28,5
+847,Texas,Warranty,2026-04-27,TECH-014,21.8,Resolved,195.18,4
+848,New York,Battery Performance,2026-06-04,TECH-030,21.8,Resolved,235.55,5
+849,California,Warranty,2026-05-20,TECH-019,29.6,Resolved,295.26,5
+850,New York,Installation,2026-05-04,TECH-017,16.6,Resolved,150.16,5
+851,Arizona,Warranty,2026-01-21,TECH-022,59.4,Escalated,403.53,
+852,Nevada,Battery Performance,2026-06-21,TECH-018,6.5,Resolved,275.06,3
+853,New York,Grid Connection,2026-01-03,TECH-012,27.8,Resolved,218.21,5
+854,Arizona,Charging,2026-03-17,TECH-026,13.9,Resolved,142.24,5
+855,Arizona,Charging,2026-05-25,TECH-010,12.6,Resolved,334.3,3
+856,Nevada,Battery Performance,2026-06-09,TECH-005,27.3,Resolved,402.34,5
+857,Florida,Charging,2026-06-07,TECH-024,17.4,Resolved,550.04,4
+858,New York,Installation,2026-02-08,TECH-006,20.5,Resolved,218.17,4
+859,New York,Battery Performance,2026-05-16,TECH-025,22.3,Resolved,359.65,4
+860,Florida,Grid Connection,2026-04-16,TECH-024,6.1,Resolved,393.21,4
+861,New York,Battery Performance,2026-03-30,TECH-013,18.2,Resolved,250.52,4
+862,New York,Charging,2026-05-02,TECH-022,37.3,Resolved,218.87,4
+863,Nevada,Grid Connection,2026-06-30,TECH-030,29.1,Resolved,543.74,3
+864,California,Grid Connection,2026-04-25,TECH-030,31.2,Resolved,269.51,3
+865,Nevada,Installation,2026-05-17,TECH-009,24.9,Resolved,160.48,5
+866,Arizona,Battery Performance,2026-03-10,TECH-022,9.4,Resolved,241.45,4
+867,Florida,Solar Inverter,2026-05-31,TECH-001,5.5,Resolved,50,5
+868,California,Battery Performance,2026-06-22,TECH-022,51.8,Open,324.77,
+869,Florida,Charging,2026-04-25,TECH-003,16.8,Resolved,409.7,3
+870,Arizona,Warranty,2026-01-15,TECH-004,29.3,Resolved,50,4
+871,California,Warranty,2026-01-23,TECH-023,7.3,Resolved,70.1,4
+872,Nevada,Charging,2026-02-17,TECH-025,16.1,Resolved,273.0,2
+873,Texas,Installation,2026-04-20,TECH-025,46.7,Escalated,197.21,
+874,California,Charging,2026-01-19,TECH-009,35.0,Open,404.57,
+875,Texas,Solar Inverter,2026-03-09,TECH-021,1,Resolved,336.72,5
+876,New York,Battery Performance,2026-05-06,TECH-023,18.7,Resolved,222.4,4
+877,California,Battery Performance,2026-03-08,TECH-029,31.1,Resolved,416.66,2
+878,Nevada,Solar Inverter,2026-05-08,TECH-005,20.5,Resolved,320.21,5
+879,New York,Charging,2026-06-29,TECH-016,28.9,Escalated,243.84,
+880,Florida,Grid Connection,2026-04-22,TECH-008,50.1,Escalated,79.01,
+881,Florida,Grid Connection,2026-01-01,TECH-018,52.1,Pending Parts,173.83,
+882,Nevada,Charging,2026-04-02,TECH-018,7.7,Resolved,435.78,4
+883,Texas,Battery Performance,2026-03-29,TECH-006,45.8,Escalated,204.39,
+884,New York,Battery Performance,2026-05-22,TECH-029,38.3,Pending Parts,220.1,
+885,Arizona,Installation,2026-01-28,TECH-007,1,Resolved,344.67,2
+886,New York,Battery Performance,2026-02-05,TECH-003,15.7,Resolved,135.68,2
+887,California,Installation,2026-05-19,TECH-002,1.3,Resolved,263.82,2
+888,Arizona,Battery Performance,2026-03-28,TECH-022,16.3,Resolved,179.58,4
+889,Arizona,Grid Connection,2026-05-14,TECH-019,57.8,Pending Parts,193.58,
+890,Florida,Battery Performance,2026-03-01,TECH-002,26.3,Resolved,478.42,2
+891,California,Installation,2026-03-04,TECH-015,30.7,Resolved,337.86,5
+892,California,Solar Inverter,2026-06-06,TECH-016,70.5,Open,420.99,
+893,Nevada,Warranty,2026-06-02,TECH-004,21.2,Resolved,180.99,5
+894,California,Warranty,2026-06-25,TECH-019,7.9,Resolved,646.03,4
+895,Arizona,Charging,2026-02-14,TECH-012,15.7,Resolved,553.03,4
+896,Arizona,Solar Inverter,2026-05-22,TECH-020,20.3,Resolved,301.83,4
+897,California,Solar Inverter,2026-04-07,TECH-023,17.0,Resolved,321.29,4
+898,New York,Warranty,2026-06-16,TECH-023,21.5,Escalated,447.67,
+899,Texas,Solar Inverter,2026-02-02,TECH-020,16.7,Resolved,471.86,4
+900,Arizona,Battery Performance,2026-06-27,TECH-027,15.5,Resolved,131.42,4
+901,Florida,Charging,2026-03-19,TECH-012,12.5,Resolved,287.58,4
+902,California,Warranty,2026-05-19,TECH-007,19.7,Resolved,116.22,5
+903,Texas,Solar Inverter,2026-01-29,TECH-022,28.0,Resolved,288.85,4
+904,Florida,Battery Performance,2026-01-12,TECH-026,15.9,Resolved,465.91,5
+905,California,Battery Performance,2026-04-27,TECH-016,28.6,Resolved,376.26,4
+906,New York,Battery Performance,2026-05-12,TECH-007,18.9,Resolved,471.23,5
+907,Arizona,Charging,2026-06-23,TECH-014,23.0,Resolved,384.23,4
+908,California,Grid Connection,2026-02-21,TECH-029,62.8,Escalated,402.77,
+909,Texas,Solar Inverter,2026-04-22,TECH-015,13.6,Resolved,264.36,5
+910,Arizona,Installation,2026-02-19,TECH-019,17.0,Resolved,445.7,3
+911,Nevada,Charging,2026-01-16,TECH-008,23.9,Resolved,195.49,4
+912,Florida,Warranty,2026-03-17,TECH-018,24.1,Resolved,50,4
+913,Florida,Battery Performance,2026-02-28,TECH-016,1,Resolved,281.99,4
+914,Nevada,Charging,2026-04-29,TECH-014,1.6,Resolved,444.05,4
+915,Florida,Solar Inverter,2026-05-29,TECH-029,37.9,Escalated,276.65,
+916,Florida,Grid Connection,2026-01-02,TECH-002,61.4,Pending Parts,359.33,
+917,New York,Warranty,2026-04-19,TECH-016,23.1,Resolved,118.8,4
+918,Texas,Battery Performance,2026-03-03,TECH-012,32.6,Resolved,337.71,4
+919,Texas,Solar Inverter,2026-03-17,TECH-023,26.7,Resolved,406.38,5
+920,Texas,Warranty,2026-04-28,TECH-028,61.3,Open,343.56,
+921,Arizona,Grid Connection,2026-06-30,TECH-003,26.7,Resolved,178.03,3
+922,Arizona,Installation,2026-04-09,TECH-020,27.3,Resolved,350.1,5
+923,Nevada,Warranty,2026-05-19,TECH-024,46.4,Open,264.08,
+924,California,Warranty,2026-01-15,TECH-013,30.7,Pending Parts,59.28,
+925,Florida,Grid Connection,2026-04-04,TECH-023,14.3,Resolved,384.99,4
+926,New York,Solar Inverter,2026-02-22,TECH-024,45.5,Pending Parts,388.56,
+927,Nevada,Installation,2026-05-29,TECH-017,17.8,Resolved,219.98,5
+928,Florida,Grid Connection,2026-06-24,TECH-017,25.6,Resolved,369.95,2
+929,New York,Grid Connection,2026-02-01,TECH-020,13.2,Resolved,164.5,5
+930,California,Installation,2026-04-05,TECH-007,57.9,Pending Parts,50,
+931,California,Battery Performance,2026-04-28,TECH-006,23.9,Resolved,250.92,4
+932,Nevada,Battery Performance,2026-03-12,TECH-014,1,Resolved,326.59,3
+933,Arizona,Warranty,2026-06-24,TECH-021,29.6,Pending Parts,343.86,
+934,New York,Charging,2026-01-06,TECH-019,34.0,Resolved,354.77,5
+935,New York,Installation,2026-03-29,TECH-010,12.4,Resolved,486.64,2
+936,Texas,Solar Inverter,2026-05-26,TECH-016,35.8,Escalated,551.66,
+937,New York,Charging,2026-04-06,TECH-006,58.4,Open,358.28,
+938,Texas,Solar Inverter,2026-06-08,TECH-008,12.7,Resolved,687.48,4
+939,Nevada,Battery Performance,2026-01-30,TECH-006,30.6,Pending Parts,251.86,
+940,Nevada,Warranty,2026-02-22,TECH-015,5.4,Resolved,50,4
+941,Texas,Solar Inverter,2026-05-19,TECH-015,19.5,Resolved,341.75,2
+942,Arizona,Solar Inverter,2026-03-23,TECH-023,16.2,Resolved,50,5
+943,Florida,Grid Connection,2026-03-17,TECH-022,69.7,Escalated,275.48,
+944,California,Warranty,2026-02-07,TECH-024,57.0,Open,260.28,
+945,Florida,Battery Performance,2026-05-03,TECH-027,10.7,Resolved,282.18,5
+946,Florida,Grid Connection,2026-02-26,TECH-017,12.3,Resolved,490.0,4
+947,Florida,Charging,2026-02-26,TECH-013,33.2,Resolved,456.6,4
+948,New York,Grid Connection,2026-02-19,TECH-005,1,Resolved,114.23,5
+949,New York,Charging,2026-04-20,TECH-028,26.3,Resolved,329.85,5
+950,New York,Battery Performance,2026-05-24,TECH-010,29.3,Resolved,170.77,5
+951,Texas,Installation,2026-02-11,TECH-027,16.6,Pending Parts,457.3,
+952,California,Warranty,2026-05-31,TECH-030,20.7,Resolved,473.28,5
+953,Texas,Grid Connection,2026-06-01,TECH-018,1.2,Resolved,487.22,5
+954,Nevada,Installation,2026-04-29,TECH-018,23.2,Resolved,272.43,5
+955,New York,Battery Performance,2026-05-06,TECH-018,38.6,Open,495.91,
+956,California,Solar Inverter,2026-04-29,TECH-021,25.0,Resolved,321.68,2
+957,California,Charging,2026-06-20,TECH-004,4.3,Resolved,330.89,4
+958,Florida,Grid Connection,2026-03-12,TECH-016,67.7,Pending Parts,414.29,
+959,Arizona,Grid Connection,2026-05-25,TECH-027,33.2,Escalated,205.35,
+960,Florida,Charging,2026-01-31,TECH-002,2.5,Resolved,196.81,4
+961,Nevada,Charging,2026-02-07,TECH-012,15.0,Resolved,196.61,3
+962,Florida,Installation,2026-04-18,TECH-021,37.3,Escalated,411.09,
+963,Florida,Warranty,2026-01-20,TECH-011,7.4,Resolved,148.43,4
+964,Nevada,Installation,2026-03-22,TECH-004,41.9,Open,534.67,
+965,Nevada,Warranty,2026-05-17,TECH-025,21.0,Resolved,379.66,5
+966,Florida,Grid Connection,2026-05-05,TECH-008,21.5,Resolved,285.4,4
+967,New York,Warranty,2026-02-18,TECH-015,23.4,Resolved,170.9,4
+968,Nevada,Battery Performance,2026-01-20,TECH-023,60.2,Open,245.94,
+969,Nevada,Solar Inverter,2026-04-03,TECH-006,60.6,Open,199.33,
+970,Arizona,Battery Performance,2026-03-19,TECH-005,50.8,Open,369.84,
+971,Arizona,Solar Inverter,2026-06-26,TECH-025,24.3,Resolved,701.96,5
+972,California,Battery Performance,2026-01-29,TECH-002,8.5,Resolved,334.69,4
+973,California,Warranty,2026-06-18,TECH-010,1,Resolved,379.11,3
+974,Texas,Battery Performance,2026-06-20,TECH-019,51.8,Open,50,
+975,Florida,Solar Inverter,2026-02-21,TECH-012,23.0,Resolved,334.36,5
+976,Florida,Solar Inverter,2026-04-01,TECH-019,49.0,Escalated,130.7,
+977,Arizona,Battery Performance,2026-01-18,TECH-007,46.5,Open,148.84,
+978,California,Solar Inverter,2026-03-14,TECH-030,5.7,Escalated,232.76,
+979,Texas,Warranty,2026-02-24,TECH-015,22.1,Escalated,354.28,
+980,Florida,Battery Performance,2026-06-22,TECH-008,12.6,Resolved,428.19,4
+981,Florida,Battery Performance,2026-04-15,TECH-005,38.4,Open,464.18,
+982,New York,Charging,2026-05-07,TECH-004,15.6,Resolved,305.84,5
+983,Texas,Charging,2026-04-09,TECH-018,16.8,Resolved,107.41,2
+984,New York,Charging,2026-04-15,TECH-022,18.4,Pending Parts,440.71,
+985,New York,Solar Inverter,2026-04-05,TECH-017,11.8,Resolved,134.22,5
+986,Arizona,Installation,2026-06-18,TECH-030,23.7,Resolved,431.03,4
+987,California,Battery Performance,2026-02-13,TECH-008,19.9,Resolved,408.85,5
+988,Arizona,Installation,2026-04-19,TECH-013,19.4,Resolved,82.43,5
+989,Texas,Grid Connection,2026-04-02,TECH-025,43.4,Resolved,192.24,5
+990,California,Battery Performance,2026-04-27,TECH-004,11.5,Resolved,326.79,4
+991,Texas,Battery Performance,2026-01-14,TECH-010,23.6,Resolved,334.71,5
+992,New York,Warranty,2026-06-09,TECH-007,31.3,Resolved,428.06,2
+993,California,Installation,2026-03-17,TECH-014,6.8,Resolved,314.73,3
+994,California,Grid Connection,2026-01-31,TECH-006,23.9,Resolved,199.18,3
+995,New York,Installation,2026-05-23,TECH-014,37.3,Escalated,527.02,
+996,Arizona,Charging,2026-02-04,TECH-018,13.7,Resolved,325.31,2
+997,New York,Warranty,2026-06-25,TECH-009,1,Resolved,361.44,3
+998,Nevada,Warranty,2026-05-07,TECH-011,34.6,Pending Parts,232.45,
+999,Arizona,Battery Performance,2026-01-16,TECH-011,24.0,Resolved,416.46,3
+1000,Arizona,Battery Performance,2026-04-08,TECH-008,27.3,Resolved,312.7,3
+1001,Nevada,Solar Inverter,2026-03-05,TECH-004,1.5,Resolved,151.12,4
+1002,Florida,Solar Inverter,2026-03-28,TECH-017,13.4,Resolved,458.17,5
+1003,New York,Charging,2026-04-18,TECH-019,16.1,Resolved,325.62,5
+1004,Nevada,Charging,2026-04-10,TECH-016,19.5,Resolved,259.98,4
+1005,Texas,Installation,2026-05-09,TECH-016,11.6,Resolved,232.13,5
+1006,California,Battery Performance,2026-06-12,TECH-010,33.0,Escalated,294.27,
+1007,Arizona,Grid Connection,2026-05-27,TECH-028,18.2,Open,71.46,
+1008,New York,Battery Performance,2026-05-29,TECH-007,16.3,Resolved,499.05,2
+1009,Arizona,Battery Performance,2026-03-30,TECH-018,12.8,Resolved,559.5,5
+1010,California,Solar Inverter,2026-03-22,TECH-021,17.9,Resolved,488.5,4
+1011,Arizona,Warranty,2026-06-30,TECH-015,35.8,Escalated,275.02,
+1012,Florida,Installation,2026-03-10,TECH-024,6.4,Resolved,162.13,5
+1013,Arizona,Battery Performance,2026-06-10,TECH-022,14.7,Resolved,379.62,4
+1014,New York,Grid Connection,2026-03-18,TECH-009,30.6,Resolved,82.88,4
+1015,California,Installation,2026-03-15,TECH-005,15.4,Resolved,225.23,4
+1016,New York,Battery Performance,2026-02-19,TECH-021,22.7,Resolved,181.66,5
+1017,Arizona,Solar Inverter,2026-01-10,TECH-018,22.6,Resolved,401.84,5
+1018,California,Installation,2026-02-15,TECH-002,61.9,Escalated,283.57,
+1019,Nevada,Charging,2026-01-22,TECH-022,31.0,Resolved,97.09,5
+1020,California,Battery Performance,2026-06-18,TECH-019,27.3,Resolved,92.46,4
+1021,New York,Battery Performance,2026-05-09,TECH-029,28.5,Resolved,50,5
+1022,Arizona,Solar Inverter,2026-01-24,TECH-024,19.1,Resolved,199.88,5
+1023,New York,Grid Connection,2026-03-02,TECH-014,22.9,Resolved,380.44,5
+1024,Nevada,Warranty,2026-03-07,TECH-018,4.3,Resolved,274.67,4
+1025,Nevada,Grid Connection,2026-04-19,TECH-016,36.0,Resolved,254.21,4
+1026,Arizona,Charging,2026-04-05,TECH-030,30.0,Resolved,280.45,3
+1027,Arizona,Solar Inverter,2026-06-21,TECH-004,8.4,Resolved,452.45,5
+1028,New York,Solar Inverter,2026-05-17,TECH-030,19.9,Escalated,518.01,
+1029,Texas,Charging,2026-03-07,TECH-030,20.9,Resolved,227.93,4
+1030,Nevada,Installation,2026-04-23,TECH-028,22.9,Resolved,133.87,3
+1031,California,Grid Connection,2026-01-21,TECH-027,3.3,Resolved,459.66,5
+1032,New York,Installation,2026-02-11,TECH-023,26.6,Resolved,379.27,5
+1033,California,Battery Performance,2026-01-08,TECH-013,21.9,Resolved,458.61,4
+1034,Florida,Installation,2026-02-21,TECH-023,14.1,Resolved,288.89,4
+1035,Nevada,Solar Inverter,2026-06-16,TECH-015,34.5,Escalated,91.62,
+1036,Nevada,Installation,2026-05-03,TECH-007,23.6,Resolved,486.44,5
+1037,California,Grid Connection,2026-01-22,TECH-001,11.1,Resolved,404.54,4
+1038,Texas,Installation,2026-05-23,TECH-009,18.5,Resolved,379.9,2
+1039,California,Solar Inverter,2026-06-29,TECH-012,9.0,Resolved,191.94,4
+1040,Arizona,Warranty,2026-02-13,TECH-016,16.1,Resolved,173.27,2
+1041,Nevada,Solar Inverter,2026-01-31,TECH-024,24.5,Resolved,579.38,5
+1042,Arizona,Grid Connection,2026-05-07,TECH-022,25.5,Resolved,171.21,5
+1043,Texas,Grid Connection,2026-02-18,TECH-020,18.6,Resolved,287.37,5
+1044,New York,Solar Inverter,2026-04-26,TECH-005,14.0,Resolved,178.04,3
+1045,Arizona,Installation,2026-03-24,TECH-020,20.1,Resolved,453.84,5
+1046,New York,Battery Performance,2026-03-07,TECH-030,25.6,Resolved,365.45,4
+1047,Arizona,Warranty,2026-04-01,TECH-026,64.8,Pending Parts,281.32,
+1048,Arizona,Battery Performance,2026-01-12,TECH-012,12.4,Resolved,238.84,5
+1049,Nevada,Warranty,2026-02-03,TECH-029,20.4,Resolved,397.15,2
+1050,California,Solar Inverter,2026-04-30,TECH-011,15.6,Resolved,175.5,5
+1051,New York,Solar Inverter,2026-01-12,TECH-010,25.2,Resolved,301.06,5
+1052,New York,Warranty,2026-03-09,TECH-029,61.2,Open,244.95,
+1053,Florida,Charging,2026-02-12,TECH-028,8.3,Open,338.78,
+1054,Texas,Installation,2026-06-18,TECH-006,53.0,Open,346.07,
+1055,California,Grid Connection,2026-01-10,TECH-015,15.4,Resolved,175.77,2
+1056,California,Installation,2026-04-02,TECH-012,13.8,Resolved,337.94,4
+1057,Florida,Solar Inverter,2026-01-24,TECH-027,48.8,Escalated,397.05,
+1058,California,Warranty,2026-03-11,TECH-017,28.0,Escalated,224.99,
+1059,Nevada,Solar Inverter,2026-05-27,TECH-001,31.6,Resolved,431.14,4
+1060,California,Installation,2026-03-14,TECH-027,55.5,Pending Parts,413.92,
+1061,New York,Solar Inverter,2026-03-24,TECH-021,4.3,Resolved,374.3,2
+1062,Nevada,Warranty,2026-03-10,TECH-024,16.7,Resolved,356.81,2
+1063,California,Solar Inverter,2026-05-26,TECH-024,30.3,Resolved,380.56,5
+1064,Texas,Warranty,2026-01-19,TECH-008,33.9,Pending Parts,415.78,
+1065,Nevada,Battery Performance,2026-04-13,TECH-021,20.3,Resolved,454.1,5
+1066,Arizona,Solar Inverter,2026-06-17,TECH-020,8.4,Resolved,328.57,5
+1067,New York,Charging,2026-02-03,TECH-029,23.3,Resolved,173.96,2
+1068,Nevada,Grid Connection,2026-04-10,TECH-020,14.8,Resolved,284.11,5
+1069,Arizona,Grid Connection,2026-02-17,TECH-008,27.0,Resolved,412.64,2
+1070,Nevada,Installation,2026-06-15,TECH-015,28.0,Resolved,247.68,4
+1071,Texas,Battery Performance,2026-04-22,TECH-022,36.6,Escalated,331.13,
+1072,California,Solar Inverter,2026-03-18,TECH-017,17.2,Resolved,362.01,4
+1073,Nevada,Warranty,2026-01-28,TECH-009,29.0,Resolved,435.17,5
+1074,New York,Battery Performance,2026-05-30,TECH-006,69.5,Open,343.47,
+1075,Florida,Grid Connection,2026-02-16,TECH-024,5.9,Resolved,429.78,5
+1076,Texas,Installation,2026-04-27,TECH-006,20.9,Resolved,200.42,4
+1077,New York,Installation,2026-01-21,TECH-018,43.7,Pending Parts,529.08,
+1078,Arizona,Battery Performance,2026-01-05,TECH-013,31.1,Resolved,337.07,2
+1079,Arizona,Installation,2026-06-18,TECH-022,5.5,Resolved,336.2,5
+1080,Texas,Installation,2026-06-26,TECH-004,16.5,Resolved,388.45,3
+1081,Arizona,Installation,2026-01-05,TECH-005,51.5,Pending Parts,245.71,
+1082,California,Solar Inverter,2026-06-16,TECH-010,6.8,Resolved,143.94,4
+1083,Arizona,Solar Inverter,2026-04-29,TECH-023,23.4,Resolved,331.53,4
+1084,Nevada,Grid Connection,2026-04-24,TECH-019,25.6,Resolved,176.74,4
+1085,New York,Battery Performance,2026-04-11,TECH-028,32.0,Resolved,483.28,5
+1086,New York,Installation,2026-05-07,TECH-013,14.0,Resolved,50,3
+1087,Texas,Warranty,2026-05-05,TECH-023,7.6,Resolved,184.01,2
+1088,Arizona,Warranty,2026-01-16,TECH-014,7.9,Resolved,237.92,5
+1089,California,Battery Performance,2026-05-02,TECH-006,25.7,Resolved,271.66,5
+1090,Florida,Installation,2026-03-15,TECH-030,14.4,Resolved,404.57,4
+1091,New York,Charging,2026-06-25,TECH-005,59.4,Pending Parts,143.36,
+1092,New York,Installation,2026-03-17,TECH-026,34.5,Resolved,253.8,5
+1093,Texas,Warranty,2026-02-11,TECH-006,16.6,Resolved,264.64,2
+1094,Nevada,Solar Inverter,2026-02-21,TECH-008,25.5,Resolved,406.01,2
+1095,Arizona,Warranty,2026-02-23,TECH-006,36.4,Resolved,352.83,5
+1096,California,Warranty,2026-02-14,TECH-018,26.8,Resolved,377.87,4
+1097,Florida,Grid Connection,2026-02-27,TECH-009,13.5,Resolved,430.6,3
+1098,California,Installation,2026-02-08,TECH-030,39.4,Escalated,279.99,
+1099,Florida,Grid Connection,2026-04-23,TECH-020,46.5,Pending Parts,50,
+1100,Nevada,Warranty,2026-01-27,TECH-006,28.0,Resolved,441.39,4
+1101,Texas,Installation,2026-03-16,TECH-021,3.4,Resolved,311.58,4
+1102,New York,Charging,2026-04-04,TECH-025,52.2,Open,385.64,
+1103,Texas,Solar Inverter,2026-01-02,TECH-003,32.8,Open,338.96,
+1104,Texas,Charging,2026-03-10,TECH-025,7.1,Resolved,420.41,4
+1105,New York,Grid Connection,2026-05-16,TECH-029,55.3,Open,432.97,
+1106,Texas,Warranty,2026-04-28,TECH-025,42.6,Open,346.27,
+1107,Nevada,Installation,2026-01-03,TECH-013,50.9,Open,299.57,
+1108,Florida,Grid Connection,2026-02-12,TECH-002,18.8,Resolved,114.65,4
+1109,New York,Installation,2026-06-11,TECH-013,73.6,Open,55.75,
+1110,California,Installation,2026-06-24,TECH-027,13.0,Resolved,537.37,5
+1111,Florida,Warranty,2026-03-13,TECH-020,23.5,Resolved,433.54,4
+1112,Texas,Installation,2026-06-08,TECH-029,8.7,Resolved,531.42,5
+1113,Florida,Battery Performance,2026-03-19,TECH-018,10.7,Resolved,514.02,4
+1114,California,Solar Inverter,2026-03-14,TECH-001,7.6,Resolved,265.67,4
+1115,Florida,Warranty,2026-05-19,TECH-004,21.8,Resolved,216.38,5
+1116,New York,Charging,2026-01-16,TECH-010,13.4,Resolved,316.61,4
+1117,Nevada,Installation,2026-05-27,TECH-010,14.5,Resolved,407.1,4
+1118,Arizona,Installation,2026-03-14,TECH-013,40.1,Open,115.91,
+1119,New York,Installation,2026-05-14,TECH-004,12.4,Resolved,483.31,5
+1120,Texas,Installation,2026-02-07,TECH-016,14.6,Resolved,352.33,5
+1121,Nevada,Grid Connection,2026-02-24,TECH-019,13.9,Resolved,192.62,5
+1122,Arizona,Installation,2026-05-08,TECH-014,1,Resolved,439.04,2
+1123,Arizona,Solar Inverter,2026-02-11,TECH-007,8.1,Resolved,334.8,4
+1124,Florida,Grid Connection,2026-04-27,TECH-028,24.4,Resolved,469.33,4
+1125,California,Battery Performance,2026-04-15,TECH-012,15.7,Resolved,302.5,4
+1126,Florida,Charging,2026-03-20,TECH-014,2.1,Resolved,341.88,4
+1127,New York,Charging,2026-01-13,TECH-001,51.0,Escalated,572.87,
+1128,Florida,Warranty,2026-02-01,TECH-015,24.4,Resolved,214.15,5
+1129,Florida,Grid Connection,2026-03-28,TECH-021,15.7,Resolved,132.37,4
+1130,Florida,Grid Connection,2026-04-28,TECH-022,26.6,Resolved,501.88,4
+1131,Arizona,Grid Connection,2026-06-09,TECH-029,24.6,Resolved,245.28,3
+1132,Florida,Installation,2026-04-24,TECH-021,22.6,Resolved,364.48,3
+1133,Florida,Warranty,2026-03-21,TECH-017,15.7,Resolved,273.58,3
+1134,California,Grid Connection,2026-02-18,TECH-009,31.1,Resolved,344.0,4
+1135,California,Solar Inverter,2026-02-22,TECH-026,55.5,Open,163.73,
+1136,Nevada,Warranty,2026-05-17,TECH-014,9.1,Resolved,233.72,3
+1137,California,Grid Connection,2026-02-16,TECH-004,9.3,Resolved,296.04,4
+1138,Nevada,Solar Inverter,2026-05-19,TECH-014,24.3,Resolved,538.32,4
+1139,Nevada,Solar Inverter,2026-06-23,TECH-013,23.5,Resolved,298.57,3
+1140,California,Charging,2026-01-26,TECH-007,23.4,Resolved,252.66,4
+1141,California,Warranty,2026-03-03,TECH-009,3.0,Resolved,330.32,5
+1142,Arizona,Charging,2026-01-16,TECH-008,9.4,Resolved,408.8,5
+1143,Nevada,Charging,2026-01-05,TECH-019,14.4,Resolved,286.62,4
+1144,Nevada,Grid Connection,2026-04-15,TECH-018,14.0,Resolved,248.85,4
+1145,California,Solar Inverter,2026-02-13,TECH-001,1,Resolved,462.11,2
+1146,Nevada,Warranty,2026-04-29,TECH-020,18.3,Resolved,319.19,2
+1147,California,Installation,2026-03-06,TECH-006,10.4,Resolved,479.15,5
+1148,Arizona,Warranty,2026-05-17,TECH-018,29.8,Resolved,435.83,4
+1149,Arizona,Grid Connection,2026-03-13,TECH-009,1.8,Resolved,312.37,5
+1150,Florida,Charging,2026-04-26,TECH-011,26.2,Resolved,306.37,2
+1151,California,Installation,2026-01-05,TECH-022,28.9,Resolved,229.99,3
+1152,Florida,Grid Connection,2026-02-14,TECH-003,14.6,Resolved,166.86,5
+1153,Arizona,Installation,2026-06-16,TECH-004,34.7,Resolved,371.1,2
+1154,Arizona,Grid Connection,2026-04-01,TECH-001,39.1,Open,388.08,
+1155,Nevada,Grid Connection,2026-02-01,TECH-022,18.4,Resolved,337.98,3
+1156,Texas,Solar Inverter,2026-04-02,TECH-016,12.2,Resolved,242.18,4
+1157,California,Battery Performance,2026-04-03,TECH-007,29.6,Resolved,196.14,4
+1158,Florida,Grid Connection,2026-06-13,TECH-007,16.2,Resolved,482.49,4
+1159,Florida,Installation,2026-06-18,TECH-005,13.2,Resolved,155.39,4
+1160,Texas,Solar Inverter,2026-01-17,TECH-028,12.1,Resolved,277.18,5
+1161,Nevada,Battery Performance,2026-06-23,TECH-022,38.5,Pending Parts,158.22,
+1162,Nevada,Grid Connection,2026-05-24,TECH-014,5.9,Resolved,412.56,3
+1163,Arizona,Charging,2026-04-15,TECH-008,7.5,Resolved,301.21,3
+1164,New York,Charging,2026-01-13,TECH-007,32.2,Escalated,295.31,
+1165,Texas,Battery Performance,2026-03-27,TECH-023,61.2,Escalated,50,
+1166,California,Battery Performance,2026-04-19,TECH-021,49.4,Escalated,438.21,
+1167,Nevada,Battery Performance,2026-06-10,TECH-008,16.2,Resolved,332.8,5
+1168,Florida,Grid Connection,2026-01-28,TECH-026,16.4,Resolved,359.42,5
+1169,Arizona,Battery Performance,2026-03-02,TECH-015,26.4,Open,157.59,
+1170,Arizona,Battery Performance,2026-05-29,TECH-003,20.2,Resolved,333.57,5
+1171,Arizona,Battery Performance,2026-02-02,TECH-014,33.1,Escalated,362.32,
+1172,New York,Battery Performance,2026-01-17,TECH-004,11.0,Resolved,277.42,5
+1173,New York,Grid Connection,2026-06-08,TECH-013,7.3,Resolved,199.61,3
+1174,Arizona,Grid Connection,2026-04-29,TECH-026,35.0,Escalated,233.15,
+1175,Florida,Grid Connection,2026-01-07,TECH-023,14.3,Resolved,284.91,3
+1176,Arizona,Warranty,2026-01-18,TECH-017,51.8,Open,491.35,
+1177,Texas,Charging,2026-03-07,TECH-026,16.5,Resolved,170.09,4
+1178,Nevada,Battery Performance,2026-01-12,TECH-019,8.7,Resolved,234.93,5
+1179,California,Solar Inverter,2026-05-19,TECH-017,15.0,Resolved,439.68,5
+1180,New York,Installation,2026-05-31,TECH-012,28.0,Resolved,378.69,3
+1181,Arizona,Solar Inverter,2026-02-20,TECH-016,19.0,Resolved,370.25,4
+1182,Florida,Installation,2026-06-27,TECH-019,34.1,Pending Parts,246.35,
+1183,New York,Warranty,2026-03-27,TECH-008,16.0,Resolved,378.02,3
+1184,New York,Installation,2026-01-01,TECH-024,19.6,Resolved,514.29,4
+1185,Nevada,Installation,2026-03-26,TECH-001,4.4,Resolved,473.5,3
+1186,Arizona,Charging,2026-01-19,TECH-019,23.6,Resolved,396.82,4
+1187,Texas,Battery Performance,2026-04-03,TECH-029,48.9,Pending Parts,428.66,
+1188,California,Installation,2026-03-09,TECH-006,21.9,Resolved,233.94,4
+1189,Nevada,Battery Performance,2026-03-09,TECH-030,14.1,Resolved,197.31,4
+1190,Florida,Charging,2026-02-23,TECH-026,12.1,Resolved,418.71,4
+1191,Texas,Grid Connection,2026-06-09,TECH-026,52.7,Escalated,351.23,
+1192,Arizona,Solar Inverter,2026-02-18,TECH-008,15.3,Resolved,204.94,5
+1193,Nevada,Warranty,2026-01-12,TECH-008,22.6,Resolved,227.41,4
+1194,Florida,Installation,2026-01-14,TECH-029,65.4,Open,124.07,
+1195,Florida,Solar Inverter,2026-05-06,TECH-003,50.7,Open,78.14,
+1196,New York,Warranty,2026-02-12,TECH-017,29.1,Resolved,162.77,5
+1197,New York,Solar Inverter,2026-04-29,TECH-009,8.3,Resolved,473.52,2
+1198,Texas,Grid Connection,2026-05-29,TECH-029,21.3,Resolved,123.78,4
+1199,New York,Grid Connection,2026-02-21,TECH-019,34.8,Escalated,392.81,
+1200,New York,Charging,2026-02-10,TECH-017,30.9,Resolved,438.64,5

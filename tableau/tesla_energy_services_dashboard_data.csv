@@ -1,0 +1,216 @@
+service_month,region,issue_type,ticket_volume,avg_resolution_hours,avg_service_cost_usd,resolution_rate_pct,sla_breach_rate_pct,avg_customer_rating
+2026-01,Arizona,Warranty,9,27.43,308.79,66.67,55.56,4.17
+2026-01,California,Installation,9,28.86,235.65,77.78,55.56,3.86
+2026-01,Florida,Warranty,9,27.11,295.85,55.56,44.44,4.6
+2026-01,Arizona,Charging,8,26.2,356.86,75.0,25.0,3.67
+2026-01,California,Grid Connection,8,17.26,255.17,87.5,25.0,4.14
+2026-01,California,Solar Inverter,8,22.52,299.64,87.5,37.5,4.57
+2026-01,Florida,Installation,8,31.09,367.78,50.0,62.5,3.25
+2026-01,Arizona,Solar Inverter,7,19.6,364.7,85.71,28.57,4.33
+2026-01,California,Battery Performance,7,15.57,374.71,85.71,14.29,3.67
+2026-01,California,Charging,7,21.03,272.54,71.43,42.86,4.6
+2026-01,California,Warranty,7,25.83,220.31,71.43,71.43,3.0
+2026-01,Florida,Solar Inverter,7,25.93,404.08,71.43,71.43,3.6
+2026-01,Nevada,Charging,7,38.13,301.35,57.14,57.14,4.25
+2026-01,Nevada,Solar Inverter,7,28.84,353.8,71.43,57.14,4.6
+2026-01,New York,Battery Performance,7,31.61,292.22,57.14,71.43,4.0
+2026-01,New York,Grid Connection,7,35.26,287.38,57.14,71.43,5.0
+2026-01,Florida,Battery Performance,6,25.63,357.88,83.33,33.33,4.6
+2026-01,Florida,Charging,6,27.5,375.06,50.0,50.0,3.67
+2026-01,Florida,Grid Connection,6,33.77,303.78,66.67,50.0,4.25
+2026-01,Nevada,Battery Performance,6,27.35,306.0,66.67,50.0,4.25
+2026-01,Nevada,Warranty,6,24.55,393.7,83.33,50.0,4.2
+2026-01,New York,Charging,6,28.98,372.53,66.67,66.67,4.0
+2026-01,New York,Warranty,6,20.67,292.12,83.33,33.33,4.0
+2026-01,Texas,Warranty,6,25.12,266.79,50.0,50.0,3.33
+2026-01,Arizona,Battery Performance,5,24.1,325.79,80.0,40.0,3.5
+2026-01,Nevada,Installation,5,30.04,303.79,60.0,40.0,4.67
+2026-01,New York,Installation,5,34.34,326.4,40.0,80.0,3.0
+2026-01,New York,Solar Inverter,5,23.22,251.66,100.0,60.0,3.8
+2026-01,Texas,Grid Connection,5,22.54,272.16,60.0,20.0,4.0
+2026-01,Texas,Solar Inverter,5,22.4,302.96,60.0,60.0,4.67
+2026-01,Arizona,Installation,4,29.98,263.34,25.0,50.0,2.0
+2026-01,Nevada,Grid Connection,3,16.57,415.8,100.0,0.0,3.67
+2026-01,Texas,Battery Performance,3,40.67,352.23,33.33,66.67,5.0
+2026-01,Arizona,Grid Connection,2,31.35,160.01,50.0,50.0,5.0
+2026-01,Texas,Installation,2,22.4,334.55,50.0,50.0,2.0
+2026-01,Texas,Charging,1,15.7,265.35,100.0,0.0,5.0
+2026-02,Arizona,Installation,9,22.58,277.46,77.78,33.33,3.86
+2026-02,Florida,Grid Connection,9,12.5,343.19,100.0,0.0,4.22
+2026-02,Florida,Charging,7,19.54,425.22,71.43,28.57,4.4
+2026-02,Florida,Installation,7,28.49,237.09,57.14,28.57,4.75
+2026-02,Nevada,Grid Connection,7,22.51,311.09,85.71,42.86,4.0
+2026-02,New York,Grid Connection,7,25.3,293.4,42.86,42.86,4.67
+2026-02,Arizona,Warranty,6,27.15,253.31,83.33,50.0,4.0
+2026-02,California,Grid Connection,6,27.03,248.5,83.33,66.67,3.8
+2026-02,Nevada,Installation,6,16.35,424.72,100.0,33.33,4.0
+2026-02,New York,Solar Inverter,6,37.48,310.98,33.33,50.0,3.0
+2026-02,Arizona,Battery Performance,5,32.64,313.1,60.0,60.0,3.0
+2026-02,Florida,Battery Performance,5,14.98,249.98,100.0,20.0,4.6
+2026-02,Florida,Solar Inverter,5,29.82,362.29,40.0,40.0,5.0
+2026-02,Nevada,Charging,5,14.6,258.97,100.0,0.0,3.8
+2026-02,New York,Installation,5,20.98,364.09,100.0,60.0,4.0
+2026-02,New York,Warranty,5,30.86,192.45,60.0,60.0,4.33
+2026-02,Texas,Installation,5,25.28,391.45,40.0,40.0,5.0
+2026-02,Texas,Solar Inverter,5,14.42,369.46,100.0,0.0,3.8
+2026-02,Texas,Warranty,5,26.76,302.75,40.0,40.0,3.0
+2026-02,Arizona,Solar Inverter,4,15.25,308.66,100.0,0.0,3.75
+2026-02,California,Charging,4,38.5,268.71,25.0,100.0,2.0
+2026-02,California,Installation,4,39.88,370.2,25.0,75.0,5.0
+2026-02,California,Solar Inverter,4,39.73,326.87,25.0,75.0,2.0
+2026-02,Nevada,Warranty,4,18.45,266.09,75.0,25.0,2.67
+2026-02,New York,Battery Performance,4,19.35,245.94,75.0,25.0,3.0
+2026-02,Texas,Grid Connection,4,19.9,354.86,75.0,25.0,4.33
+2026-02,Arizona,Grid Connection,3,33.6,244.06,66.67,100.0,3.5
+2026-02,California,Battery Performance,3,13.73,347.02,100.0,0.0,4.33
+2026-02,Florida,Warranty,3,26.33,286.07,66.67,66.67,4.5
+2026-02,Nevada,Solar Inverter,3,27.87,509.02,66.67,66.67,3.5
+2026-02,Arizona,Charging,2,14.7,439.17,100.0,0.0,3.0
+2026-02,California,Warranty,2,41.9,319.07,50.0,100.0,4.0
+2026-02,New York,Charging,2,27.1,306.3,100.0,50.0,3.5
+2026-02,Texas,Charging,2,11.55,313.42,100.0,0.0,4.5
+2026-02,Texas,Battery Performance,1,29.9,359.57,100.0,100.0,3.0
+2026-03,Arizona,Battery Performance,16,22.21,318.4,75.0,31.25,4.08
+2026-03,Florida,Grid Connection,13,34.72,286.69,53.85,69.23,4.43
+2026-03,California,Installation,11,25.92,324.09,72.73,54.55,3.63
+2026-03,California,Solar Inverter,11,20.92,320.12,81.82,45.45,4.0
+2026-03,Florida,Warranty,11,21.06,332.21,100.0,45.45,4.0
+2026-03,Nevada,Battery Performance,9,21.21,383.43,88.89,22.22,4.0
+2026-03,Nevada,Installation,9,30.19,406.39,55.56,66.67,3.8
+2026-03,Florida,Installation,8,15.18,187.34,100.0,12.5,4.25
+2026-03,Florida,Battery Performance,7,20.57,299.94,85.71,42.86,3.67
+2026-03,Florida,Charging,7,16.4,252.39,85.71,28.57,4.0
+2026-03,New York,Installation,7,21.06,361.29,100.0,28.57,3.86
+2026-03,New York,Warranty,7,29.79,273.41,57.14,42.86,4.0
+2026-03,Arizona,Installation,6,39.18,242.76,33.33,66.67,5.0
+2026-03,Arizona,Solar Inverter,6,29.27,254.6,66.67,66.67,4.0
+2026-03,New York,Grid Connection,6,18.2,302.39,100.0,16.67,3.83
+2026-03,New York,Solar Inverter,6,30.95,319.15,66.67,50.0,3.5
+2026-03,Texas,Charging,6,17.47,251.31,83.33,16.67,4.4
+2026-03,Texas,Installation,6,15.72,246.68,83.33,16.67,3.6
+2026-03,Arizona,Charging,5,16.18,314.2,100.0,40.0,5.0
+2026-03,Arizona,Warranty,5,26.44,289.09,80.0,60.0,3.75
+2026-03,Florida,Solar Inverter,5,23.02,302.27,60.0,40.0,5.0
+2026-03,Nevada,Warranty,5,10.0,252.73,100.0,0.0,3.4
+2026-03,Texas,Battery Performance,5,36.16,223.03,60.0,80.0,4.0
+2026-03,Texas,Grid Connection,5,37.82,219.9,40.0,80.0,5.0
+2026-03,California,Battery Performance,4,21.1,357.01,75.0,50.0,2.67
+2026-03,California,Charging,4,20.77,392.65,75.0,50.0,3.33
+2026-03,California,Warranty,4,24.57,299.95,50.0,50.0,4.5
+2026-03,Nevada,Charging,4,21.13,410.45,75.0,25.0,4.33
+2026-03,Nevada,Grid Connection,4,14.95,317.73,100.0,25.0,3.75
+2026-03,Texas,Solar Inverter,4,25.93,350.72,75.0,50.0,4.0
+2026-03,Arizona,Grid Connection,3,9.9,323.77,100.0,0.0,4.33
+2026-03,New York,Charging,3,14.6,290.79,100.0,0.0,4.33
+2026-03,California,Grid Connection,2,24.25,352.0,50.0,50.0,4.0
+2026-03,Nevada,Solar Inverter,2,11.0,233.55,100.0,0.0,4.5
+2026-03,New York,Battery Performance,2,21.9,307.99,100.0,50.0,4.0
+2026-03,Texas,Warranty,2,45.6,320.55,0.0,100.0,
+2026-04,Florida,Grid Connection,11,29.66,324.3,72.73,54.55,3.75
+2026-04,New York,Charging,9,31.23,405.99,55.56,44.44,4.6
+2026-04,Nevada,Charging,8,21.73,305.62,75.0,12.5,4.33
+2026-04,Nevada,Grid Connection,8,24.46,300.36,87.5,50.0,4.0
+2026-04,Nevada,Installation,8,24.41,340.83,75.0,25.0,4.17
+2026-04,Texas,Charging,8,33.42,301.04,62.5,62.5,3.0
+2026-04,California,Warranty,7,17.8,233.65,100.0,14.29,3.86
+2026-04,New York,Battery Performance,7,30.14,391.44,71.43,71.43,4.2
+2026-04,New York,Warranty,7,17.06,190.98,100.0,14.29,4.0
+2026-04,Texas,Grid Connection,7,32.11,264.32,57.14,57.14,4.5
+2026-04,Texas,Solar Inverter,7,17.71,364.35,85.71,14.29,4.33
+2026-04,Texas,Warranty,7,36.2,314.59,57.14,71.43,4.5
+2026-04,Arizona,Installation,6,36.68,314.81,33.33,66.67,5.0
+2026-04,Arizona,Solar Inverter,6,29.5,397.61,83.33,66.67,4.0
+2026-04,California,Battery Performance,6,26.45,315.14,83.33,50.0,4.0
+2026-04,California,Installation,6,30.63,245.0,50.0,66.67,4.33
+2026-04,Texas,Battery Performance,6,32.27,414.94,50.0,66.67,3.67
+2026-04,Arizona,Charging,5,36.48,361.7,40.0,80.0,3.0
+2026-04,California,Solar Inverter,5,16.44,279.06,100.0,20.0,4.2
+2026-04,Florida,Installation,5,27.14,286.13,60.0,60.0,2.33
+2026-04,Nevada,Battery Performance,5,25.18,318.08,80.0,40.0,4.25
+2026-04,Nevada,Solar Inverter,5,35.74,338.62,40.0,80.0,4.0
+2026-04,Nevada,Warranty,5,27.02,403.03,80.0,40.0,3.75
+2026-04,Arizona,Warranty,4,34.95,266.95,50.0,50.0,2.5
+2026-04,Florida,Charging,4,32.05,338.13,50.0,75.0,2.5
+2026-04,Florida,Warranty,4,23.7,302.64,100.0,50.0,4.25
+2026-04,New York,Solar Inverter,4,12.32,326.73,100.0,0.0,3.5
+2026-04,Texas,Installation,4,19.2,288.5,75.0,25.0,3.67
+2026-04,Arizona,Battery Performance,3,32.03,262.4,66.67,66.67,4.0
+2026-04,Arizona,Grid Connection,3,43.73,288.7,0.0,100.0,
+2026-04,California,Charging,3,31.7,282.14,33.33,66.67,4.0
+2026-04,Florida,Battery Performance,3,27.6,310.26,66.67,66.67,4.0
+2026-04,Florida,Solar Inverter,2,39.7,228.32,0.0,100.0,
+2026-04,New York,Grid Connection,2,41.0,289.66,0.0,100.0,
+2026-04,New York,Installation,2,43.05,324.98,0.0,100.0,
+2026-04,California,Grid Connection,1,31.2,269.51,100.0,100.0,3.0
+2026-05,New York,Battery Performance,12,27.39,301.7,66.67,41.67,4.13
+2026-05,Florida,Solar Inverter,10,24.34,246.83,70.0,40.0,3.86
+2026-05,Arizona,Grid Connection,9,25.91,248.64,55.56,44.44,4.2
+2026-05,Nevada,Warranty,9,28.37,285.25,55.56,55.56,3.8
+2026-05,New York,Installation,9,19.58,308.74,88.89,33.33,3.63
+2026-05,Arizona,Solar Inverter,8,25.32,269.68,87.5,25.0,4.71
+2026-05,Texas,Grid Connection,8,28.29,247.0,75.0,25.0,4.17
+2026-05,Texas,Solar Inverter,8,15.25,343.0,87.5,25.0,3.14
+2026-05,Arizona,Battery Performance,7,21.69,351.12,71.43,28.57,4.6
+2026-05,California,Warranty,7,17.44,289.76,100.0,14.29,4.14
+2026-05,Florida,Grid Connection,7,28.93,231.49,71.43,71.43,4.0
+2026-05,Nevada,Charging,7,31.13,322.73,71.43,42.86,4.0
+2026-05,New York,Grid Connection,7,28.2,294.66,57.14,71.43,4.75
+2026-05,Texas,Installation,7,12.87,302.14,100.0,14.29,4.14
+2026-05,California,Charging,6,20.92,312.84,83.33,16.67,3.8
+2026-05,Florida,Charging,6,27.28,331.4,66.67,33.33,3.75
+2026-05,Florida,Warranty,6,24.0,230.77,66.67,16.67,4.25
+2026-05,Arizona,Installation,5,15.0,308.69,80.0,20.0,4.25
+2026-05,California,Grid Connection,5,20.46,316.49,100.0,20.0,3.6
+2026-05,California,Solar Inverter,5,32.9,346.0,80.0,40.0,4.0
+2026-05,Nevada,Solar Inverter,5,25.88,355.12,80.0,60.0,4.5
+2026-05,New York,Charging,5,26.72,338.68,80.0,40.0,4.75
+2026-05,Texas,Warranty,5,14.9,329.02,100.0,0.0,3.2
+2026-05,Nevada,Battery Performance,4,33.88,294.91,75.0,75.0,3.0
+2026-05,Nevada,Installation,4,20.2,318.5,100.0,25.0,4.75
+2026-05,New York,Solar Inverter,4,17.38,474.94,75.0,0.0,4.0
+2026-05,Texas,Battery Performance,4,15.8,434.31,75.0,25.0,4.67
+2026-05,Arizona,Charging,3,23.97,327.43,66.67,33.33,4.0
+2026-05,Arizona,Warranty,3,24.53,344.34,100.0,66.67,4.33
+2026-05,California,Battery Performance,3,21.87,232.91,66.67,66.67,4.5
+2026-05,Florida,Battery Performance,3,13.87,298.76,100.0,0.0,4.33
+2026-05,Nevada,Grid Connection,3,27.27,423.94,66.67,33.33,4.0
+2026-05,New York,Warranty,2,32.4,328.24,50.0,100.0,5.0
+2026-05,Texas,Charging,2,29.2,309.99,50.0,50.0,4.0
+2026-05,California,Installation,1,1.3,263.82,100.0,0.0,2.0
+2026-05,Florida,Installation,1,14.9,127.83,100.0,0.0,4.0
+2026-06,New York,Grid Connection,13,23.32,255.61,76.92,46.15,4.1
+2026-06,Arizona,Installation,10,22.27,368.59,90.0,30.0,4.22
+2026-06,California,Battery Performance,9,25.91,289.41,55.56,55.56,4.0
+2026-06,Arizona,Solar Inverter,8,24.1,369.44,87.5,50.0,4.71
+2026-06,Nevada,Battery Performance,8,24.29,280.81,75.0,37.5,4.17
+2026-06,Texas,Charging,8,32.1,379.03,62.5,62.5,4.0
+2026-06,Texas,Grid Connection,8,21.98,415.43,75.0,37.5,4.17
+2026-06,Arizona,Battery Performance,7,30.71,341.16,71.43,28.57,3.8
+2026-06,Arizona,Charging,7,26.17,367.16,57.14,42.86,3.75
+2026-06,Arizona,Grid Connection,7,37.13,201.01,71.43,85.71,3.4
+2026-06,California,Charging,7,17.87,404.46,71.43,28.57,3.6
+2026-06,Florida,Charging,7,27.9,399.06,57.14,57.14,4.0
+2026-06,New York,Installation,7,35.2,232.01,71.43,42.86,4.8
+2026-06,Texas,Installation,7,30.23,320.88,57.14,57.14,4.25
+2026-06,California,Solar Inverter,6,41.75,357.93,33.33,66.67,4.0
+2026-06,New York,Charging,6,42.53,268.95,33.33,100.0,3.0
+2026-06,New York,Solar Inverter,6,36.5,348.12,66.67,33.33,4.25
+2026-06,Texas,Warranty,6,20.22,332.95,100.0,16.67,4.17
+2026-06,California,Warranty,5,19.2,539.34,80.0,40.0,3.75
+2026-06,Florida,Installation,5,34.3,262.68,40.0,80.0,3.0
+2026-06,Nevada,Charging,5,11.38,286.18,100.0,0.0,4.8
+2026-06,Nevada,Grid Connection,5,18.56,375.78,100.0,20.0,4.0
+2026-06,Nevada,Solar Inverter,5,26.52,331.75,60.0,40.0,3.67
+2026-06,Nevada,Warranty,5,17.2,238.34,100.0,20.0,3.4
+2026-06,New York,Warranty,5,21.48,382.84,60.0,40.0,3.33
+2026-06,Texas,Solar Inverter,5,20.56,335.94,100.0,40.0,3.8
+2026-06,Arizona,Warranty,4,24.6,283.16,50.0,50.0,3.0
+2026-06,California,Installation,4,28.98,448.73,75.0,25.0,4.33
+2026-06,Florida,Grid Connection,4,11.82,446.75,100.0,25.0,3.75
+2026-06,New York,Battery Performance,4,22.6,281.26,75.0,25.0,4.67
+2026-06,Texas,Battery Performance,4,25.9,114.96,75.0,50.0,3.67
+2026-06,Florida,Warranty,3,40.43,346.19,33.33,66.67,4.0
+2026-06,Nevada,Installation,3,24.2,285.15,66.67,66.67,4.5
+2026-06,California,Grid Connection,2,15.7,453.02,100.0,0.0,4.0
+2026-06,Florida,Solar Inverter,2,14.95,304.43,100.0,0.0,4.0
+2026-06,Florida,Battery Performance,1,12.6,428.19,100.0,0.0,4.0
